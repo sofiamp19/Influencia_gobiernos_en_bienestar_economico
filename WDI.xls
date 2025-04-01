@@ -1,0 +1,1597 @@
+Country Name,Country Code,Series Name,Series Code,2000 [YR2000],2018 [YR2018]
+Afghanistan,AFG,Unemployment total (% of total labor force),UNEMPLOY,8.054,11.11
+Afghanistan,AFG,Consumer price index (2010 = 100),CPI,..,146.522481857209
+Afghanistan,AFG,Death rate (per 1000 people),DEATH_RATE,12.096,6.981
+Afghanistan,AFG,GDP per capita (constant 2015 US$),GDP.PCAP,..,578.985544847804
+Afghanistan,AFG,Life expectancy at birth (years),LIFE_EXPECT,55.298,63.081
+Afghanistan,AFG,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,61,37
+Albania,ALB,Unemployment total (% of total labor force),UNEMPLOY,19.028,12.3
+Albania,ALB,Consumer price index (2010 = 100),CPI,74.1382245539502,117.392740239274
+Albania,ALB,Death rate (per 1000 people),DEATH_RATE,5.798,8.308
+Albania,ALB,GDP per capita (constant 2015 US$),GDP.PCAP,1960.88246493025,4431.55560679714
+Albania,ALB,Life expectancy at birth (years),LIFE_EXPECT,75.404,79.184
+Albania,ALB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,12.2,7
+Algeria,DZA,Unemployment total (% of total labor force),UNEMPLOY,29.77,10.416
+Algeria,DZA,Consumer price index (2010 = 100),CPI,70.4381279952933,148.463994714821
+Algeria,DZA,Death rate (per 1000 people),DEATH_RATE,5.037,4.482
+Algeria,DZA,GDP per capita (constant 2015 US$),GDP.PCAP,3138.23000861214,4188.2203709479
+Algeria,DZA,Life expectancy at birth (years),LIFE_EXPECT,70.478,76.066
+Algeria,DZA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,22.3,15.9
+American Samoa,ASM,Unemployment total (% of total labor force),UNEMPLOY,..,..
+American Samoa,ASM,Consumer price index (2010 = 100),CPI,..,..
+American Samoa,ASM,Death rate (per 1000 people),DEATH_RATE,..,..
+American Samoa,ASM,GDP per capita (constant 2015 US$),GDP.PCAP,..,13049.3301536176
+American Samoa,ASM,Life expectancy at birth (years),LIFE_EXPECT,..,..
+American Samoa,ASM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Andorra,AND,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Andorra,AND,Consumer price index (2010 = 100),CPI,..,..
+Andorra,AND,Death rate (per 1000 people),DEATH_RATE,..,4.4
+Andorra,AND,GDP per capita (constant 2015 US$),GDP.PCAP,33901.1769747473,39320.0924477975
+Andorra,AND,Life expectancy at birth (years),LIFE_EXPECT,..,..
+Andorra,AND,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.5,1.6
+Angola,AGO,Unemployment total (% of total labor force),UNEMPLOY,4.163,9.522
+Angola,AGO,Consumer price index (2010 = 100),CPI,2.90908239295018,324.2227541664
+Angola,AGO,Death rate (per 1000 people),DEATH_RATE,18.287,7.99
+Angola,AGO,GDP per capita (constant 2015 US$),GDP.PCAP,1840.35382835349,2677.24983283563
+Angola,AGO,Life expectancy at birth (years),LIFE_EXPECT,46.024,62.144
+Angola,AGO,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,50.5,28.5
+Antigua and Barbuda,ATG,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Antigua and Barbuda,ATG,Consumer price index (2010 = 100),CPI,81.0825688073393,113.807620427883
+Antigua and Barbuda,ATG,Death rate (per 1000 people),DEATH_RATE,6.587,5.787
+Antigua and Barbuda,ATG,GDP per capita (constant 2015 US$),GDP.PCAP,14247.973013193,16957.632679588
+Antigua and Barbuda,ATG,Life expectancy at birth (years),LIFE_EXPECT,74.606,78.511
+Antigua and Barbuda,ATG,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,9.7,3.7
+Argentina,ARG,Unemployment total (% of total labor force),UNEMPLOY,15,9.22
+Argentina,ARG,Consumer price index (2010 = 100),CPI,..,..
+Argentina,ARG,Death rate (per 1000 people),DEATH_RATE,7.6,7.68
+Argentina,ARG,GDP per capita (constant 2015 US$),GDP.PCAP,10672.7220353121,13105.397163317
+Argentina,ARG,Life expectancy at birth (years),LIFE_EXPECT,73.926,76.999
+Argentina,ARG,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,11.1,6.1
+Armenia,ARM,Unemployment total (% of total labor force),UNEMPLOY,11.055,13.21
+Armenia,ARM,Consumer price index (2010 = 100),CPI,65.0005904218581,127.33795197859
+Armenia,ARM,Death rate (per 1000 people),DEATH_RATE,8.27,9.75
+Armenia,ARM,GDP per capita (constant 2015 US$),GDP.PCAP,1249.61213037405,4215.89939814463
+Armenia,ARM,Life expectancy at birth (years),LIFE_EXPECT,70.624,75.064
+Armenia,ARM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,16,6.6
+Aruba,ABW,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Aruba,ABW,Consumer price index (2010 = 100),CPI,72.0314565915752,105.061405952227
+Aruba,ABW,Death rate (per 1000 people),DEATH_RATE,6.335,8.597
+Aruba,ABW,GDP per capita (constant 2015 US$),GDP.PCAP,29005.9333738747,31705.2788242026
+Aruba,ABW,Life expectancy at birth (years),LIFE_EXPECT,73.569,76.072
+Aruba,ABW,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Australia,AUS,Unemployment total (% of total labor force),UNEMPLOY,6.28,5.3
+Australia,AUS,Consumer price index (2010 = 100),CPI,74.3756503642039,117.89802289282
+Australia,AUS,Death rate (per 1000 people),DEATH_RATE,6.7,6.3
+Australia,AUS,GDP per capita (constant 2015 US$),GDP.PCAP,45892.6103705542,58479.5035467805
+Australia,AUS,Life expectancy at birth (years),LIFE_EXPECT,79.2341463414634,82.7487804878049
+Australia,AUS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.5,2.3
+Austria,AUT,Unemployment total (% of total labor force),UNEMPLOY,4.69,4.85
+Austria,AUT,Consumer price index (2010 = 100),CPI,82.6019086974074,116.277886952829
+Austria,AUT,Death rate (per 1000 people),DEATH_RATE,9.6,9.5
+Austria,AUT,GDP per capita (constant 2015 US$),GDP.PCAP,38842.8905195831,46154.6250956541
+Austria,AUT,Life expectancy at birth (years),LIFE_EXPECT,78.1268292682927,81.6926829268293
+Austria,AUT,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.1,2.2
+Azerbaijan,AZE,Unemployment total (% of total labor force),UNEMPLOY,11.78,4.94
+Azerbaijan,AZE,Consumer price index (2010 = 100),CPI,48.866855021793,152.9
+Azerbaijan,AZE,Death rate (per 1000 people),DEATH_RATE,5.8,5.8
+Azerbaijan,AZE,GDP per capita (constant 2015 US$),GDP.PCAP,1480.80895297437,5262.36963669485
+Azerbaijan,AZE,Life expectancy at birth (years),LIFE_EXPECT,64.891,72.76
+Azerbaijan,AZE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,34.3,11.1
+Bahamas,BHS,Unemployment total (% of total labor force),UNEMPLOY,7.196,10
+Bahamas,BHS,Consumer price index (2010 = 100),CPI,80.0088429151256,113.393999859543
+Bahamas,BHS,Death rate (per 1000 people),DEATH_RATE,5.706,6.935
+Bahamas,BHS,GDP per capita (constant 2015 US$),GDP.PCAP,32300.8120346595,30181.1840587486
+Bahamas,BHS,Life expectancy at birth (years),LIFE_EXPECT,72.041,73.806
+Bahamas,BHS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,8,7.3
+Bahrain,BHR,Unemployment total (% of total labor force),UNEMPLOY,1.117,1.185
+Bahrain,BHR,Consumer price index (2010 = 100),CPI,83.4385023142846,117.589374360011
+Bahrain,BHR,Death rate (per 1000 people),DEATH_RATE,2.595,1.992
+Bahrain,BHR,GDP per capita (constant 2015 US$),GDP.PCAP,21713.5380502274,23023.1197800625
+Bahrain,BHR,Life expectancy at birth (years),LIFE_EXPECT,75.496,79.857
+Bahrain,BHR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,4.7,3.1
+Bangladesh,BGD,Unemployment total (% of total labor force),UNEMPLOY,3.27,4.38
+Bangladesh,BGD,Consumer price index (2010 = 100),CPI,53.9091441150379,170.164243384102
+Bangladesh,BGD,Death rate (per 1000 people),DEATH_RATE,6.855,5.241
+Bangladesh,BGD,GDP per capita (constant 2015 US$),GDP.PCAP,646.037766238482,1460.30423385385
+Bangladesh,BGD,Life expectancy at birth (years),LIFE_EXPECT,65.779,72.567
+Bangladesh,BGD,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,44.1,19.3
+Barbados,BRB,Unemployment total (% of total labor force),UNEMPLOY,9.35,8.32
+Barbados,BRB,Consumer price index (2010 = 100),CPI,67.2938918008204,128.809607088726
+Barbados,BRB,Death rate (per 1000 people),DEATH_RATE,9.47,8.927
+Barbados,BRB,GDP per capita (constant 2015 US$),GDP.PCAP,16698.0610545825,17220.9310014747
+Barbados,BRB,Life expectancy at birth (years),LIFE_EXPECT,74.089,77.067
+Barbados,BRB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,9.2,8.6
+Belarus,BLR,Unemployment total (% of total labor force),UNEMPLOY,12.254,4.76
+Belarus,BLR,Consumer price index (2010 = 100),CPI,16.0506056584144,481.390313879142
+Belarus,BLR,Death rate (per 1000 people),DEATH_RATE,13.5,12.7
+Belarus,BLR,GDP per capita (constant 2015 US$),GDP.PCAP,2616.927456409,6165.95853198263
+Belarus,BLR,Life expectancy at birth (years),LIFE_EXPECT,68.9121951219512,74.1756097560976
+Belarus,BLR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5.2,1.2
+Belgium,BEL,Unemployment total (% of total labor force),UNEMPLOY,6.59,5.95
+Belgium,BEL,Consumer price index (2010 = 100),CPI,81.4218043493863,115.451625636977
+Belgium,BEL,Death rate (per 1000 people),DEATH_RATE,10.2,9.7
+Belgium,BEL,GDP per capita (constant 2015 US$),GDP.PCAP,35674.7912530713,42382.3182763247
+Belgium,BEL,Life expectancy at birth (years),LIFE_EXPECT,77.7219512195122,81.5951219512195
+Belgium,BEL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3,2.4
+Belize,BLZ,Unemployment total (% of total labor force),UNEMPLOY,10.869,7.814
+Belize,BLZ,Consumer price index (2010 = 100),CPI,85.1867498213079,105.961860070454
+Belize,BLZ,Death rate (per 1000 people),DEATH_RATE,5.858,4.74
+Belize,BLZ,GDP per capita (constant 2015 US$),GDP.PCAP,5693.74148475752,5756.8522488581
+Belize,BLZ,Life expectancy at birth (years),LIFE_EXPECT,68.564,73.703
+Belize,BLZ,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,12,8.7
+Benin,BEN,Unemployment total (% of total labor force),UNEMPLOY,0.843,1.47
+Benin,BEN,Consumer price index (2010 = 100),CPI,74.3319475815406,111.506188526423
+Benin,BEN,Death rate (per 1000 people),DEATH_RATE,11.964,9.428
+Benin,BEN,GDP per capita (constant 2015 US$),GDP.PCAP,888.730184630442,1111.22724012239
+Benin,BEN,Life expectancy at birth (years),LIFE_EXPECT,56.578,60.14
+Benin,BEN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,39.1,30.7
+Bermuda,BMU,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Bermuda,BMU,Consumer price index (2010 = 100),CPI,..,..
+Bermuda,BMU,Death rate (per 1000 people),DEATH_RATE,8,8.3
+Bermuda,BMU,GDP per capita (constant 2015 US$),GDP.PCAP,109001.586029756,106697.737486296
+Bermuda,BMU,Life expectancy at birth (years),LIFE_EXPECT,78.858,80.825
+Bermuda,BMU,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Bhutan,BTN,Unemployment total (% of total labor force),UNEMPLOY,1.625,3.35
+Bhutan,BTN,Consumer price index (2010 = 100),CPI,62.815,162.746286170163
+Bhutan,BTN,Death rate (per 1000 people),DEATH_RATE,8.368,6.766
+Bhutan,BTN,GDP per capita (constant 2015 US$),GDP.PCAP,1115.6253258233,3065.85352500394
+Bhutan,BTN,Life expectancy at birth (years),LIFE_EXPECT,62.01,71.129
+Bhutan,BTN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,31.8,16.5
+Bolivia,BOL,Unemployment total (% of total labor force),UNEMPLOY,2.373,3.52
+Bolivia,BOL,Consumer price index (2010 = 100),CPI,62.6303680784418,145.638433874571
+Bolivia,BOL,Death rate (per 1000 people),DEATH_RATE,9.826,7.124
+Bolivia,BOL,GDP per capita (constant 2015 US$),GDP.PCAP,2017.39460861999,3219.20089192093
+Bolivia,BOL,Life expectancy at birth (years),LIFE_EXPECT,62.346,67.748
+Bolivia,BOL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,29.5,14.8
+Bosnia and Herzegovina,BIH,Unemployment total (% of total labor force),UNEMPLOY,26.189,18.4
+Bosnia and Herzegovina,BIH,Consumer price index (2010 = 100),CPI,..,104.30910432626
+Bosnia and Herzegovina,BIH,Death rate (per 1000 people),DEATH_RATE,8.358,12.056
+Bosnia and Herzegovina,BIH,GDP per capita (constant 2015 US$),GDP.PCAP,2554.56463864982,5339.47813723954
+Bosnia and Herzegovina,BIH,Life expectancy at birth (years),LIFE_EXPECT,74.496,77.093
+Bosnia and Herzegovina,BIH,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,6.9,4.4
+Botswana,BWA,Unemployment total (% of total labor force),UNEMPLOY,15.88,19.838
+Botswana,BWA,Consumer price index (2010 = 100),CPI,44.034509775931,145.713267399351
+Botswana,BWA,Death rate (per 1000 people),DEATH_RATE,13.128,6.922
+Botswana,BWA,GDP per capita (constant 2015 US$),GDP.PCAP,4917.11273158338,6418.57765509904
+Botswana,BWA,Life expectancy at birth (years),LIFE_EXPECT,51.011,65.422
+Botswana,BWA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,8.1,19.9
+Brazil,BRA,Unemployment total (% of total labor force),UNEMPLOY,10.53,12.46
+Brazil,BRA,Consumer price index (2010 = 100),CPI,52.5315827425714,161.373814183906
+Brazil,BRA,Death rate (per 1000 people),DEATH_RATE,6.399,6.516
+Brazil,BRA,GDP per capita (constant 2015 US$),GDP.PCAP,6745.85699443581,8553.86491790724
+Brazil,BRA,Life expectancy at birth (years),LIFE_EXPECT,69.737,75.109
+Brazil,BRA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,18.8,9.1
+British Virgin Islands,VGB,Unemployment total (% of total labor force),UNEMPLOY,..,..
+British Virgin Islands,VGB,Consumer price index (2010 = 100),CPI,..,..
+British Virgin Islands,VGB,Death rate (per 1000 people),DEATH_RATE,4.953,5.988
+British Virgin Islands,VGB,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+British Virgin Islands,VGB,Life expectancy at birth (years),LIFE_EXPECT,73.966,75.831
+British Virgin Islands,VGB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,8.4,6
+Brunei Darussalam,BRN,Unemployment total (% of total labor force),UNEMPLOY,5.597,8.7
+Brunei Darussalam,BRN,Consumer price index (2010 = 100),CPI,94.9592653292323,99.4150542992179
+Brunei Darussalam,BRN,Death rate (per 1000 people),DEATH_RATE,3.331,4.7
+Brunei Darussalam,BRN,GDP per capita (constant 2015 US$),GDP.PCAP,33985.8193193043,29437.8685052227
+Brunei Darussalam,BRN,Life expectancy at birth (years),LIFE_EXPECT,74.08,74.712
+Brunei Darussalam,BRN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5,5.8
+Bulgaria,BGR,Unemployment total (% of total labor force),UNEMPLOY,16.22,5.21
+Bulgaria,BGR,Consumer price index (2010 = 100),CPI,56.1013968449146,110.974058623258
+Bulgaria,BGR,Death rate (per 1000 people),DEATH_RATE,14.1,15.4
+Bulgaria,BGR,GDP per capita (constant 2015 US$),GDP.PCAP,3721.05137976414,7866.82598109356
+Bulgaria,BGR,Life expectancy at birth (years),LIFE_EXPECT,71.6634146341463,74.9634146341464
+Bulgaria,BGR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,7.9,3.5
+Burkina Faso,BFA,Unemployment total (% of total labor force),UNEMPLOY,2.635,4.69
+Burkina Faso,BFA,Consumer price index (2010 = 100),CPI,74.9152428538897,111.979764709293
+Burkina Faso,BFA,Death rate (per 1000 people),DEATH_RATE,15.314,8.809
+Burkina Faso,BFA,GDP per capita (constant 2015 US$),GDP.PCAP,429.847372234013,696.044570851281
+Burkina Faso,BFA,Life expectancy at birth (years),LIFE_EXPECT,50.847,60.047
+Burkina Faso,BFA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,40.6,26.8
+Burundi,BDI,Unemployment total (% of total labor force),UNEMPLOY,2.998,1.017
+Burundi,BDI,Consumer price index (2010 = 100),CPI,41.943020388257,183.371685700859
+Burundi,BDI,Death rate (per 1000 people),DEATH_RATE,15.907,7.648
+Burundi,BDI,GDP per capita (constant 2015 US$),GDP.PCAP,310.006710871337,274.131908412723
+Burundi,BDI,Life expectancy at birth (years),LIFE_EXPECT,47.514,61.688
+Burundi,BDI,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,36.7,21.9
+Cabo Verde,CPV,Unemployment total (% of total labor force),UNEMPLOY,11.11,12.17
+Cabo Verde,CPV,Consumer price index (2010 = 100),CPI,78.6650455116337,109.292107113842
+Cabo Verde,CPV,Death rate (per 1000 people),DEATH_RATE,5.844,5.275
+Cabo Verde,CPV,GDP per capita (constant 2015 US$),GDP.PCAP,2015.38137296894,3463.81283405577
+Cabo Verde,CPV,Life expectancy at birth (years),LIFE_EXPECT,68.618,75.733
+Cabo Verde,CPV,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,18.9,9.8
+Cambodia,KHM,Unemployment total (% of total labor force),UNEMPLOY,0.972,0.142
+Cambodia,KHM,Consumer price index (2010 = 100),CPI,60.9954042169748,127.633746767247
+Cambodia,KHM,Death rate (per 1000 people),DEATH_RATE,9.273,5.874
+Cambodia,KHM,GDP per capita (constant 2015 US$),GDP.PCAP,488.002702289111,1384.96802283394
+Cambodia,KHM,Life expectancy at birth (years),LIFE_EXPECT,58.625,70.561
+Cambodia,KHM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,35.2,14.4
+Cameroon,CMR,Unemployment total (% of total labor force),UNEMPLOY,7.591,3.609
+Cameroon,CMR,Consumer price index (2010 = 100),CPI,77.6142650318084,115.808046057299
+Cameroon,CMR,Death rate (per 1000 people),DEATH_RATE,13.426,8.379
+Cameroon,CMR,GDP per capita (constant 2015 US$),GDP.PCAP,1137.62452694917,1445.26777137234
+Cameroon,CMR,Life expectancy at birth (years),LIFE_EXPECT,52.932,61.18
+Cameroon,CMR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,35.4,27.4
+Canada,CAN,Unemployment total (% of total labor force),UNEMPLOY,6.83,5.83
+Canada,CAN,Consumer price index (2010 = 100),CPI,81.8903835145964,114.524899828277
+Canada,CAN,Death rate (per 1000 people),DEATH_RATE,7.1,7.7
+Canada,CAN,GDP per capita (constant 2015 US$),GDP.PCAP,37923.4864630225,44917.4837282326
+Canada,CAN,Life expectancy at birth (years),LIFE_EXPECT,79.1668292682927,81.8439024390244
+Canada,CAN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.8,3.5
+Cayman Islands,CYM,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Cayman Islands,CYM,Consumer price index (2010 = 100),CPI,..,..
+Cayman Islands,CYM,Death rate (per 1000 people),DEATH_RATE,3.4,3.3
+Cayman Islands,CYM,GDP per capita (constant 2015 US$),GDP.PCAP,..,80597.7086377604
+Cayman Islands,CYM,Life expectancy at birth (years),LIFE_EXPECT,..,..
+Cayman Islands,CYM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Central African Republic,CAF,Unemployment total (% of total labor force),UNEMPLOY,5.297,5.7
+Central African Republic,CAF,Consumer price index (2010 = 100),CPI,72.5378636652516,147.815682079127
+Central African Republic,CAF,Death rate (per 1000 people),DEATH_RATE,17.325,11.23
+Central African Republic,CAF,GDP per capita (constant 2015 US$),GDP.PCAP,445.803292997535,378.263077817052
+Central African Republic,CAF,Life expectancy at birth (years),LIFE_EXPECT,45.406,54.369
+Central African Republic,CAF,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,43.1,33.2
+Chad,TCD,Unemployment total (% of total labor force),UNEMPLOY,0.806,1.13
+Chad,TCD,Consumer price index (2010 = 100),CPI,72.1689327009226,118.853387371944
+Chad,TCD,Death rate (per 1000 people),DEATH_RATE,18.088,12.671
+Chad,TCD,GDP per capita (constant 2015 US$),GDP.PCAP,379.351546856805,653.349761512714
+Chad,TCD,Life expectancy at birth (years),LIFE_EXPECT,47.443,52.825
+Chad,TCD,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,44.2,34
+Channel Islands,CHI,Unemployment total (% of total labor force),UNEMPLOY,5.896,6.932
+Channel Islands,CHI,Consumer price index (2010 = 100),CPI,..,..
+Channel Islands,CHI,Death rate (per 1000 people),DEATH_RATE,8.93287269624104,8.71701971194375
+Channel Islands,CHI,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+Channel Islands,CHI,Life expectancy at birth (years),LIFE_EXPECT,79.155,81.375
+Channel Islands,CHI,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Chile,CHL,Unemployment total (% of total labor force),UNEMPLOY,10.49,7.21
+Chile,CHL,Consumer price index (2010 = 100),CPI,73.6733347667168,128.623951838314
+Chile,CHL,Death rate (per 1000 people),DEATH_RATE,4.959,6.327
+Chile,CHL,GDP per capita (constant 2015 US$),GDP.PCAP,8550.71166014484,13906.7705581594
+Chile,CHL,Life expectancy at birth (years),LIFE_EXPECT,76.87,80.133
+Chile,CHL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5.7,4.8
+China,CHN,Unemployment total (% of total labor force),UNEMPLOY,3.26,4.31
+China,CHN,Consumer price index (2010 = 100),CPI,80.9700222903012,121.558877866113
+China,CHN,Death rate (per 1000 people),DEATH_RATE,6.45,7.08
+China,CHN,GDP per capita (constant 2015 US$),GDP.PCAP,2193.89698162019,9619.20998022803
+China,CHN,Life expectancy at birth (years),LIFE_EXPECT,71.881,77.744
+China,CHN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,21.3,4.1
+Colombia,COL,Unemployment total (% of total labor force),UNEMPLOY,20.52,9.11
+Colombia,COL,Consumer price index (2010 = 100),CPI,58.2170213748478,136.151216036968
+Colombia,COL,Death rate (per 1000 people),DEATH_RATE,5.351,5.311
+Colombia,COL,GDP per capita (constant 2015 US$),GDP.PCAP,4003.98516922857,6320.99074757599
+Colombia,COL,Life expectancy at birth (years),LIFE_EXPECT,71.32,76.748
+Colombia,COL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,13.5,7.7
+Comoros,COM,Unemployment total (% of total labor force),UNEMPLOY,4.658,8.043
+Comoros,COM,Consumer price index (2010 = 100),CPI,69.1444788256996,..
+Comoros,COM,Death rate (per 1000 people),DEATH_RATE,10.51,8.235
+Comoros,COM,GDP per capita (constant 2015 US$),GDP.PCAP,1202.13138232008,1383.37787194702
+Comoros,COM,Life expectancy at birth (years),LIFE_EXPECT,58.757,63.912
+Comoros,COM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,39.7,27.7
+Congo_Dem_Rep,COD,Unemployment total (% of total labor force),UNEMPLOY,2.961,4.434
+Congo_Dem_Rep,COD,Consumer price index (2010 = 100),CPI,6.79873847528014,..
+Congo_Dem_Rep,COD,Death rate (per 1000 people),DEATH_RATE,14.637,9.573
+Congo_Dem_Rep,COD,GDP per capita (constant 2015 US$),GDP.PCAP,339.969449183647,489.382374474711
+Congo_Dem_Rep,COD,Life expectancy at birth (years),LIFE_EXPECT,51.781,59.942
+Congo_Dem_Rep,COD,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,38.6,28
+Congo,COG,Unemployment total (% of total labor force),UNEMPLOY,19.981,20.644
+Congo,COG,Consumer price index (2010 = 100),CPI,75.8358892991145,122.048027425109
+Congo,COG,Death rate (per 1000 people),DEATH_RATE,12.204,6.797
+Congo,COG,GDP per capita (constant 2015 US$),GDP.PCAP,2057.76715836624,1774.61390705218
+Congo,COG,Life expectancy at birth (years),LIFE_EXPECT,53.682,64.053
+Congo,COG,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,30.5,19.6
+Costa Rica,CRI,Unemployment total (% of total labor force),UNEMPLOY,5.08,9.01
+Costa Rica,CRI,Consumer price index (2010 = 100),CPI,37.3575448929626,126.20052189975
+Costa Rica,CRI,Death rate (per 1000 people),DEATH_RATE,3.995,5.276
+Costa Rica,CRI,GDP per capita (constant 2015 US$),GDP.PCAP,7646.02737188768,12470.9574213207
+Costa Rica,CRI,Life expectancy at birth (years),LIFE_EXPECT,77.586,79.484
+Costa Rica,CRI,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,7.7,6
+Cote d'Ivoire,CIV,Unemployment total (% of total labor force),UNEMPLOY,4.602,2.835
+Cote d'Ivoire,CIV,Consumer price index (2010 = 100),CPI,75.2272006073529,112.856141244189
+Cote d'Ivoire,CIV,Death rate (per 1000 people),DEATH_RATE,14.291,8.961
+Cote d'Ivoire,CIV,GDP per capita (constant 2015 US$),GDP.PCAP,1809.9208007226,2168.9134420778
+Cote d'Ivoire,CIV,Life expectancy at birth (years),LIFE_EXPECT,50.842,58.849
+Cote d'Ivoire,CIV,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,46.2,34.2
+Croatia,HRV,Unemployment total (% of total labor force),UNEMPLOY,16.06,8.43
+Croatia,HRV,Consumer price index (2010 = 100),CPI,75.8142448103077,108.974588403722
+Croatia,HRV,Death rate (per 1000 people),DEATH_RATE,11.2,12.9
+Croatia,HRV,GDP per capita (constant 2015 US$),GDP.PCAP,8876.8899057196,13665.7144097299
+Croatia,HRV,Life expectancy at birth (years),LIFE_EXPECT,72.8078048780488,78.0707317073171
+Croatia,HRV,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5.6,2.9
+Cuba,CUB,Unemployment total (% of total labor force),UNEMPLOY,5.45,1.7
+Cuba,CUB,Consumer price index (2010 = 100),CPI,..,..
+Cuba,CUB,Death rate (per 1000 people),DEATH_RATE,7.244,9.815
+Cuba,CUB,GDP per capita (constant 2015 US$),GDP.PCAP,4113.50726494564,8048.01660977285
+Cuba,CUB,Life expectancy at birth (years),LIFE_EXPECT,76.183,77.496
+Cuba,CUB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,4.3,2.3
+Curacao,CUW,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Curacao,CUW,Consumer price index (2010 = 100),CPI,76.84233544719,112.58109191632
+Curacao,CUW,Death rate (per 1000 people),DEATH_RATE,8.084,8.8
+Curacao,CUW,GDP per capita (constant 2015 US$),GDP.PCAP,21523.6459824533,18198.6642740608
+Curacao,CUW,Life expectancy at birth (years),LIFE_EXPECT,73.0339512195122,..
+Curacao,CUW,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Cyprus,CYP,Unemployment total (% of total labor force),UNEMPLOY,4.97,8.37
+Cyprus,CYP,Consumer price index (2010 = 100),CPI,77.5117436425284,102.254975116847
+Cyprus,CYP,Death rate (per 1000 people),DEATH_RATE,7.458,6.612
+Cyprus,CYP,GDP per capita (constant 2015 US$),GDP.PCAP,22383.857421875,27241.115234375
+Cyprus,CYP,Life expectancy at birth (years),LIFE_EXPECT,76.568,81.382
+Cyprus,CYP,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.7,1.6
+Czechia,CZE,Unemployment total (% of total labor force),UNEMPLOY,8.76,2.24
+Czechia,CZE,Consumer price index (2010 = 100),CPI,77.8175954130084,113.250313563877
+Czechia,CZE,Death rate (per 1000 people),DEATH_RATE,10.6,10.6
+Czechia,CZE,GDP per capita (constant 2015 US$),GDP.PCAP,12312.497769842,19689.5827032979
+Czechia,CZE,Life expectancy at birth (years),LIFE_EXPECT,74.9682926829268,79.0292682926829
+Czechia,CZE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.7,1.6
+Denmark,DNK,Unemployment total (% of total labor force),UNEMPLOY,4.48,5.13
+Denmark,DNK,Consumer price index (2010 = 100),CPI,81.6811516828855,109.517007410053
+Denmark,DNK,Death rate (per 1000 people),DEATH_RATE,10.9,9.5
+Denmark,DNK,GDP per capita (constant 2015 US$),GDP.PCAP,49241.9280041345,56563.4884729669
+Denmark,DNK,Life expectancy at birth (years),LIFE_EXPECT,76.5926829268293,80.9536585365854
+Denmark,DNK,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.5,2.7
+Djibouti,DJI,Unemployment total (% of total labor force),UNEMPLOY,28.678,26.149
+Djibouti,DJI,Consumer price index (2010 = 100),CPI,70.0722694952796,116.387718683166
+Djibouti,DJI,Death rate (per 1000 people),DEATH_RATE,10.831,8.347
+Djibouti,DJI,GDP per capita (constant 2015 US$),GDP.PCAP,..,2714.35164845975
+Djibouti,DJI,Life expectancy at birth (years),LIFE_EXPECT,56.573,63.038
+Djibouti,DJI,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,43.8,31.7
+Dominica,DMA,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Dominica,DMA,Consumer price index (2010 = 100),CPI,80.3998462791618,103.869628411641
+Dominica,DMA,Death rate (per 1000 people),DEATH_RATE,9.141,8.417
+Dominica,DMA,GDP per capita (constant 2015 US$),GDP.PCAP,6251.47117702852,7586.64614100055
+Dominica,DMA,Life expectancy at birth (years),LIFE_EXPECT,72.693,73.59
+Dominica,DMA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,12.7,27.2
+Dominican Republic,DOM,Unemployment total (% of total labor force),UNEMPLOY,6.43,5.86
+Dominican Republic,DOM,Consumer price index (2010 = 100),CPI,31.8464351894634,129.821678689518
+Dominican Republic,DOM,Death rate (per 1000 people),DEATH_RATE,6.169,6.06
+Dominican Republic,DOM,GDP per capita (constant 2015 US$),GDP.PCAP,4175.17101708311,7894.95517925479
+Dominican Republic,DOM,Life expectancy at birth (years),LIFE_EXPECT,69.423,73.232
+Dominican Republic,DOM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,23.3,24.2
+Ecuador,ECU,Unemployment total (% of total labor force),UNEMPLOY,4.8,3.53
+Ecuador,ECU,Consumer price index (2010 = 100),CPI,45.7007304499548,123.813315813595
+Ecuador,ECU,Death rate (per 1000 people),DEATH_RATE,5.007,4.911
+Ecuador,ECU,GDP per capita (constant 2015 US$),GDP.PCAP,4227.55251585272,5976.24534526558
+Ecuador,ECU,Life expectancy at birth (years),LIFE_EXPECT,72.839,77.094
+Ecuador,ECU,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,14.2,6.8
+Egypt,EGY,Unemployment total (% of total labor force),UNEMPLOY,8.98,9.855
+Egypt,EGY,Consumer price index (2010 = 100),CPI,45.0768656084691,264.375055382558
+Egypt,EGY,Death rate (per 1000 people),DEATH_RATE,6.384,5.511
+Egypt,EGY,GDP per capita (constant 2015 US$),GDP.PCAP,2517.58050569468,3635.42058228189
+Egypt,EGY,Life expectancy at birth (years),LIFE_EXPECT,68.007,71.367
+Egypt,EGY,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,22.5,11.1
+El Salvador,SLV,Unemployment total (% of total labor force),UNEMPLOY,6.96,4.01
+El Salvador,SLV,Consumer price index (2010 = 100),CPI,71.3778883660865,111.144633577092
+El Salvador,SLV,Death rate (per 1000 people),DEATH_RATE,5.876,6.938
+El Salvador,SLV,GDP per capita (constant 2015 US$),GDP.PCAP,2957.37186689018,4009.71655712472
+El Salvador,SLV,Life expectancy at birth (years),LIFE_EXPECT,69.865,72.555
+El Salvador,SLV,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,14.9,6.8
+Equatorial Guinea,GNQ,Unemployment total (% of total labor force),UNEMPLOY,7.999,8.2
+Equatorial Guinea,GNQ,Consumer price index (2010 = 100),CPI,56.0051752162291,122.472555526802
+Equatorial Guinea,GNQ,Death rate (per 1000 people),DEATH_RATE,13.738,8.85
+Equatorial Guinea,GNQ,GDP per capita (constant 2015 US$),GDP.PCAP,3941.66353561458,7079.65052642915
+Equatorial Guinea,GNQ,Life expectancy at birth (years),LIFE_EXPECT,53.226,61.191
+Equatorial Guinea,GNQ,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,46.2,30.2
+Eritrea,ERI,Unemployment total (% of total labor force),UNEMPLOY,5.616,5.697
+Eritrea,ERI,Consumer price index (2010 = 100),CPI,..,..
+Eritrea,ERI,Death rate (per 1000 people),DEATH_RATE,11.084,6.353
+Eritrea,ERI,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+Eritrea,ERI,Life expectancy at birth (years),LIFE_EXPECT,56.111,67.067
+Eritrea,ERI,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,27.1,18.5
+Estonia,EST,Unemployment total (% of total labor force),UNEMPLOY,13.36,5.41
+Estonia,EST,Consumer price index (2010 = 100),CPI,66.4507525242903,119.422747189941
+Estonia,EST,Death rate (per 1000 people),DEATH_RATE,13.2,11.9
+Estonia,EST,GDP per capita (constant 2015 US$),GDP.PCAP,9960.13903877452,19611.6109936281
+Estonia,EST,Life expectancy at birth (years),LIFE_EXPECT,70.4170731707317,78.2439024390244
+Estonia,EST,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5.3,1.1
+Eswatini,SWZ,Unemployment total (% of total labor force),UNEMPLOY,24.271,22.756
+Eswatini,SWZ,Consumer price index (2010 = 100),CPI,50.3294496499372,162.597555594944
+Eswatini,SWZ,Death rate (per 1000 people),DEATH_RATE,14.521,9.324
+Eswatini,SWZ,GDP per capita (constant 2015 US$),GDP.PCAP,2411.44492414984,3696.35984940712
+Eswatini,SWZ,Life expectancy at birth (years),LIFE_EXPECT,47.256,59.411
+Eswatini,SWZ,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,28.5,24.6
+Ethiopia,ETH,Unemployment total (% of total labor force),UNEMPLOY,3.508,3.058
+Ethiopia,ETH,Consumer price index (2010 = 100),CPI,37.5823389390627,278.49138441874
+Ethiopia,ETH,Death rate (per 1000 people),DEATH_RATE,14.758,6.569
+Ethiopia,ETH,GDP per capita (constant 2015 US$),GDP.PCAP,258.870528208632,744.367529441774
+Ethiopia,ETH,Life expectancy at birth (years),LIFE_EXPECT,50.538,65.412
+Ethiopia,ETH,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,48.5,28.7
+Faroe Islands,FRO,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Faroe Islands,FRO,Consumer price index (2010 = 100),CPI,..,..
+Faroe Islands,FRO,Death rate (per 1000 people),DEATH_RATE,7.7,7.7
+Faroe Islands,FRO,GDP per capita (constant 2015 US$),GDP.PCAP,..,54506.3884386923
+Faroe Islands,FRO,Life expectancy at birth (years),LIFE_EXPECT,78.4365853658537,82.5951219512195
+Faroe Islands,FRO,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Fiji,FJI,Unemployment total (% of total labor force),UNEMPLOY,4.912,4.315
+Fiji,FJI,Consumer price index (2010 = 100),CPI,70.1430874017209,129.992348890589
+Fiji,FJI,Death rate (per 1000 people),DEATH_RATE,6.457,7.832
+Fiji,FJI,GDP per capita (constant 2015 US$),GDP.PCAP,4000.85467692323,5708.91143008336
+Fiji,FJI,Life expectancy at birth (years),LIFE_EXPECT,66.31,67.81
+Fiji,FJI,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,10,12.2
+Finland,FIN,Unemployment total (% of total labor force),UNEMPLOY,11.13,7.36
+Finland,FIN,Consumer price index (2010 = 100),CPI,86.0844924575984,111.192991413593
+Finland,FIN,Death rate (per 1000 people),DEATH_RATE,9.5,9.9
+Finland,FIN,GDP per capita (constant 2015 US$),GDP.PCAP,37884.3913209153,45627.9198947233
+Finland,FIN,Life expectancy at birth (years),LIFE_EXPECT,77.4658536585366,81.7341463414634
+Finland,FIN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.5,1.4
+France,FRA,Unemployment total (% of total labor force),UNEMPLOY,10.22,9.02
+France,FRA,Consumer price index (2010 = 100),CPI,84.3891323092084,108.842316422953
+France,FRA,Death rate (per 1000 people),DEATH_RATE,8.9,9.1
+France,FRA,GDP per capita (constant 2015 US$),GDP.PCAP,33592.4668300573,38259.6977698474
+France,FRA,Life expectancy at birth (years),LIFE_EXPECT,79.0560975609756,82.6756097560976
+France,FRA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.8,2.6
+French Polynesia,PYF,Unemployment total (% of total labor force),UNEMPLOY,11.682,12.081
+French Polynesia,PYF,Consumer price index (2010 = 100),CPI,..,..
+French Polynesia,PYF,Death rate (per 1000 people),DEATH_RATE,2.284,3.31
+French Polynesia,PYF,GDP per capita (constant 2015 US$),GDP.PCAP,21549.2989499857,19425.172374236
+French Polynesia,PYF,Life expectancy at birth (years),LIFE_EXPECT,79.536,82.783
+French Polynesia,PYF,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Gabon,GAB,Unemployment total (% of total labor force),UNEMPLOY,17.391,20.747
+Gabon,GAB,Consumer price index (2010 = 100),CPI,81.5877558194148,119.678371953152
+Gabon,GAB,Death rate (per 1000 people),DEATH_RATE,10.002,6.986
+Gabon,GAB,GDP per capita (constant 2015 US$),GDP.PCAP,7611.83571440117,6786.89035011201
+Gabon,GAB,Life expectancy at birth (years),LIFE_EXPECT,61.069,66.306
+Gabon,GAB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,27.7,20.4
+Gambia,GMB,Unemployment total (% of total labor force),UNEMPLOY,8.47,4.13
+Gambia,GMB,Consumer price index (2010 = 100),CPI,50.971163115798,161.255981964361
+Gambia,GMB,Death rate (per 1000 people),DEATH_RATE,11.841,7.323
+Gambia,GMB,GDP per capita (constant 2015 US$),GDP.PCAP,667.965377791561,645.938185747866
+Gambia,GMB,Life expectancy at birth (years),LIFE_EXPECT,56.942,63.04
+Gambia,GMB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,40.2,27.2
+Georgia,GEO,Unemployment total (% of total labor force),UNEMPLOY,10.82,12.67
+Georgia,GEO,Consumer price index (2010 = 100),CPI,54.9035089108937,127.428491666667
+Georgia,GEO,Death rate (per 1000 people),DEATH_RATE,11.188,12.963
+Georgia,GEO,GDP per capita (constant 2015 US$),GDP.PCAP,1566.53149399641,4539.00418155023
+Georgia,GEO,Life expectancy at birth (years),LIFE_EXPECT,69.575,73.341
+Georgia,GEO,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,22.9,5.6
+Germany,DEU,Unemployment total (% of total labor force),UNEMPLOY,7.92,3.38
+Germany,DEU,Consumer price index (2010 = 100),CPI,85.6988078472918,111.246629356349
+Germany,DEU,Death rate (per 1000 people),DEATH_RATE,10.2,11.5
+Germany,DEU,GDP per capita (constant 2015 US$),GDP.PCAP,34490.0757688619,42928.7412368012
+Germany,DEU,Life expectancy at birth (years),LIFE_EXPECT,77.9268292682927,80.8926829268293
+Germany,DEU,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.8,2.3
+Ghana,GHA,Unemployment total (% of total labor force),UNEMPLOY,10.46,3.429
+Ghana,GHA,Consumer price index (2010 = 100),CPI,19.2083497512298,259.886388974227
+Ghana,GHA,Death rate (per 1000 people),DEATH_RATE,9.922,7.373
+Ghana,GHA,GDP per capita (constant 2015 US$),GDP.PCAP,1020.16229558281,1899.80859269623
+Ghana,GHA,Life expectancy at birth (years),LIFE_EXPECT,58.195,64.122
+Ghana,GHA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,35.9,24.6
+Gibraltar,GIB,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Gibraltar,GIB,Consumer price index (2010 = 100),CPI,..,..
+Gibraltar,GIB,Death rate (per 1000 people),DEATH_RATE,6.637,8.191
+Gibraltar,GIB,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+Gibraltar,GIB,Life expectancy at birth (years),LIFE_EXPECT,81.37,82.154
+Gibraltar,GIB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Greece,GRC,Unemployment total (% of total labor force),UNEMPLOY,11.24,19.29
+Greece,GRC,Consumer price index (2010 = 100),CPI,72.2012891686262,101.692125375109
+Greece,GRC,Death rate (per 1000 people),DEATH_RATE,9.7,11.2
+Greece,GRC,GDP per capita (constant 2015 US$),GDP.PCAP,18642.8020738579,18647.4957207515
+Greece,GRC,Life expectancy at birth (years),LIFE_EXPECT,77.8878048780488,81.7878048780488
+Greece,GRC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.9,2.5
+Greenland,GRL,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Greenland,GRL,Consumer price index (2010 = 100),CPI,..,..
+Greenland,GRL,Death rate (per 1000 people),DEATH_RATE,8,8.7
+Greenland,GRL,GDP per capita (constant 2015 US$),GDP.PCAP,31614.6196246591,47012.9872138882
+Greenland,GRL,Life expectancy at birth (years),LIFE_EXPECT,66.1007317073171,71.8865853658537
+Greenland,GRL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Grenada,GRD,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Grenada,GRD,Consumer price index (2010 = 100),CPI,73.5382535352993,107.426261562601
+Grenada,GRD,Death rate (per 1000 people),DEATH_RATE,7.131,7.956
+Grenada,GRD,GDP per capita (constant 2015 US$),GDP.PCAP,6678.30741336641,9252.55403427554
+Grenada,GRD,Life expectancy at birth (years),LIFE_EXPECT,72.783,74.808
+Grenada,GRD,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,7.9,10.5
+Guam,GUM,Unemployment total (% of total labor force),UNEMPLOY,15.32,5.547
+Guam,GUM,Consumer price index (2010 = 100),CPI,..,..
+Guam,GUM,Death rate (per 1000 people),DEATH_RATE,4.663,6.21
+Guam,GUM,GDP per capita (constant 2015 US$),GDP.PCAP,..,34472.95939787
+Guam,GUM,Life expectancy at birth (years),LIFE_EXPECT,74.417,77.439
+Guam,GUM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Guatemala,GTM,Unemployment total (% of total labor force),UNEMPLOY,2.75,2.28
+Guatemala,GTM,Consumer price index (2010 = 100),CPI,51.8587056854268,137.822002853775
+Guatemala,GTM,Death rate (per 1000 people),DEATH_RATE,6.19,4.995
+Guatemala,GTM,GDP per capita (constant 2015 US$),GDP.PCAP,3195.38807828092,4163.47630221389
+Guatemala,GTM,Life expectancy at birth (years),LIFE_EXPECT,67.446,72.726
+Guatemala,GTM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,21.3,12
+Guinea,GIN,Unemployment total (% of total labor force),UNEMPLOY,4.59,4.977
+Guinea,GIN,Consumer price index (2010 = 100),CPI,..,240.135129253703
+Guinea,GIN,Death rate (per 1000 people),DEATH_RATE,14.804,9.94
+Guinea,GIN,GDP per capita (constant 2015 US$),GDP.PCAP,620.904456397318,910.652641975212
+Guinea,GIN,Life expectancy at birth (years),LIFE_EXPECT,52.479,59.349
+Guinea,GIN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,46,32.3
+Guinea-Bissau,GNB,Unemployment total (% of total labor force),UNEMPLOY,3.017,3.2
+Guinea-Bissau,GNB,Consumer price index (2010 = 100),CPI,78.3888038782586,112.440793517742
+Guinea-Bissau,GNB,Death rate (per 1000 people),DEATH_RATE,15.956,8.401
+Guinea-Bissau,GNB,GDP per capita (constant 2015 US$),GDP.PCAP,563.624310525688,620.771030394538
+Guinea-Bissau,GNB,Life expectancy at birth (years),LIFE_EXPECT,50.121,60.502
+Guinea-Bissau,GNB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,55.1,36.7
+Guyana,GUY,Unemployment total (% of total labor force),UNEMPLOY,11.89,14.02
+Guyana,GUY,Consumer price index (2010 = 100),CPI,56.4365665864716,113.815875399987
+Guyana,GUY,Death rate (per 1000 people),DEATH_RATE,7.399,7.499
+Guyana,GUY,GDP per capita (constant 2015 US$),GDP.PCAP,3788.25000350221,6127.70538051386
+Guyana,GUY,Life expectancy at birth (years),LIFE_EXPECT,64.483,68.896
+Guyana,GUY,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,27.1,18.5
+Haiti,HTI,Unemployment total (% of total labor force),UNEMPLOY,8.408,13.755
+Haiti,HTI,Consumer price index (2010 = 100),CPI,32.2636202630057,179.291095505561
+Haiti,HTI,Death rate (per 1000 people),DEATH_RATE,10.341,7.998
+Haiti,HTI,GDP per capita (constant 2015 US$),GDP.PCAP,1333.72717167766,1430.81877667218
+Haiti,HTI,Life expectancy at birth (years),LIFE_EXPECT,58.365,64.019
+Haiti,HTI,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,29.8,25.8
+Honduras,HND,Unemployment total (% of total labor force),UNEMPLOY,3.855,5.62
+Honduras,HND,Consumer price index (2010 = 100),CPI,48.1155372323814,144.055097252706
+Honduras,HND,Death rate (per 1000 people),DEATH_RATE,5.141,4.257
+Honduras,HND,GDP per capita (constant 2015 US$),GDP.PCAP,1768.25390483438,2423.27605962903
+Honduras,HND,Life expectancy at birth (years),LIFE_EXPECT,68.662,72.814
+Honduras,HND,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,18,10.6
+Hong Kong,HKG,Unemployment total (% of total labor force),UNEMPLOY,4.92,2.81
+Hong Kong,HKG,Consumer price index (2010 = 100),CPI,95.8964075254481,130.874070736652
+Hong Kong,HKG,Death rate (per 1000 people),DEATH_RATE,5.1,6.4
+Hong Kong,HKG,GDP per capita (constant 2015 US$),GDP.PCAP,26933.2501919561,45280.4865045373
+Hong Kong,HKG,Life expectancy at birth (years),LIFE_EXPECT,80.8780487804878,84.9341463414634
+Hong Kong,HKG,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Hungary,HUN,Unemployment total (% of total labor force),UNEMPLOY,6.56,3.71
+Hungary,HUN,Consumer price index (2010 = 100),CPI,57.8770182068018,117.712126417039
+Hungary,HUN,Death rate (per 1000 people),DEATH_RATE,13.3,13.4
+Hungary,HUN,GDP per capita (constant 2015 US$),GDP.PCAP,8967.69626924063,14377.4241602939
+Hungary,HUN,Life expectancy at birth (years),LIFE_EXPECT,71.2463414634146,76.0658536585366
+Hungary,HUN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5.8,2.3
+Iceland,ISL,Unemployment total (% of total labor force),UNEMPLOY,1.94,2.7
+Iceland,ISL,Consumer price index (2010 = 100),CPI,54.7318525647267,125.22896551876
+Iceland,ISL,Death rate (per 1000 people),DEATH_RATE,6.5,6.4
+Iceland,ISL,GDP per capita (constant 2015 US$),GDP.PCAP,42174.6650584696,57697.8044237427
+Iceland,ISL,Life expectancy at birth (years),LIFE_EXPECT,79.6536585365854,82.8609756097561
+Iceland,ISL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.1,1.4
+India,IND,Unemployment total (% of total labor force),UNEMPLOY,7.77,7.65
+India,IND,Consumer price index (2010 = 100),CPI,54.3383216485078,165.451068899504
+India,IND,Death rate (per 1000 people),DEATH_RATE,8.701,6.644
+India,IND,GDP per capita (constant 2015 US$),GDP.PCAP,755.482289440105,1891.13842394707
+India,IND,Life expectancy at birth (years),LIFE_EXPECT,62.669,70.71
+India,IND,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,44.7,22.7
+Indonesia,IDN,Unemployment total (% of total labor force),UNEMPLOY,6.08,4.39
+Indonesia,IDN,Consumer price index (2010 = 100),CPI,44.0160379497831,146.729898360527
+Indonesia,IDN,Death rate (per 1000 people),DEATH_RATE,7.383,7.496
+Indonesia,IDN,GDP per capita (constant 2015 US$),GDP.PCAP,1845.22780079212,3741.30526695799
+Indonesia,IDN,Life expectancy at birth (years),LIFE_EXPECT,66.433,70.338
+Indonesia,IDN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,22.8,12.6
+Iran,IRN,Unemployment total (% of total labor force),UNEMPLOY,11.582,12.19
+Iran,IRN,Consumer price index (2010 = 100),CPI,25.615453804342,393.781629583153
+Iran,IRN,Death rate (per 1000 people),DEATH_RATE,5.15,4.715
+Iran,IRN,GDP per capita (constant 2015 US$),GDP.PCAP,3927.70922326375,5211.11164076206
+Iran,IRN,Life expectancy at birth (years),LIFE_EXPECT,69.691,76.195
+Iran,IRN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,19.4,9
+Iraq,IRQ,Unemployment total (% of total labor force),UNEMPLOY,8.752,14.065
+Iraq,IRQ,Consumer price index (2010 = 100),CPI,18.1585809727587,119.857173857442
+Iraq,IRQ,Death rate (per 1000 people),DEATH_RATE,6.172,4.282
+Iraq,IRQ,GDP per capita (constant 2015 US$),GDP.PCAP,4138.18793830019,4710.97614736319
+Iraq,IRQ,Life expectancy at birth (years),LIFE_EXPECT,66.817,71.514
+Iraq,IRQ,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,24,15.5
+Ireland,IRL,Unemployment total (% of total labor force),UNEMPLOY,4.32,5.74
+Ireland,IRL,Consumer price index (2010 = 100),CPI,78.3595720622771,105.592763329564
+Ireland,IRL,Death rate (per 1000 people),DEATH_RATE,8.2,6.4
+Ireland,IRL,GDP per capita (constant 2015 US$),GDP.PCAP,42098.2793673021,72339.4218486536
+Ireland,IRL,Life expectancy at birth (years),LIFE_EXPECT,76.5365853658537,82.2048780487805
+Ireland,IRL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,4,2.2
+Isle of Man,IMN,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Isle of Man,IMN,Consumer price index (2010 = 100),CPI,..,..
+Isle of Man,IMN,Death rate (per 1000 people),DEATH_RATE,12.885,10.054
+Isle of Man,IMN,GDP per capita (constant 2015 US$),GDP.PCAP,46334.3408959987,95074.3747476548
+Isle of Man,IMN,Life expectancy at birth (years),LIFE_EXPECT,74.725,80.596
+Isle of Man,IMN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Israel,ISR,Unemployment total (% of total labor force),UNEMPLOY,11.1,4
+Israel,ISR,Consumer price index (2010 = 100),CPI,80.8280315259709,107.273763175387
+Israel,ISR,Death rate (per 1000 people),DEATH_RATE,6,5
+Israel,ISR,GDP per capita (constant 2015 US$),GDP.PCAP,29321.3254007484,38744.1604404811
+Israel,ISR,Life expectancy at birth (years),LIFE_EXPECT,78.9536585365854,82.8024390243903
+Israel,ISR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.6,1.9
+Italy,ITA,Unemployment total (% of total labor force),UNEMPLOY,10.83,10.61
+Italy,ITA,Consumer price index (2010 = 100),CPI,80.7107504637521,109.951520340534
+Italy,ITA,Death rate (per 1000 people),DEATH_RATE,9.8,10.5
+Italy,ITA,GDP per capita (constant 2015 US$),GDP.PCAP,32350.9043668747,31593.4802621599
+Italy,ITA,Life expectancy at birth (years),LIFE_EXPECT,79.7780487804878,83.3463414634146
+Italy,ITA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.5,1.9
+Jamaica,JAM,Unemployment total (% of total labor force),UNEMPLOY,6.959,5.47
+Jamaica,JAM,Consumer price index (2010 = 100),CPI,34.0419769803656,156.384563303995
+Jamaica,JAM,Death rate (per 1000 people),DEATH_RATE,6.894,7.318
+Jamaica,JAM,GDP per capita (constant 2015 US$),GDP.PCAP,4920.07084947528,5264.19714315924
+Jamaica,JAM,Life expectancy at birth (years),LIFE_EXPECT,70.944,71.793
+Jamaica,JAM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,17.2,11.4
+Japan,JPN,Unemployment total (% of total labor force),UNEMPLOY,4.75,2.47
+Japan,JPN,Consumer price index (2010 = 100),CPI,102.667615077547,104.992089998242
+Japan,JPN,Death rate (per 1000 people),DEATH_RATE,7.7,11
+Japan,JPN,GDP per capita (constant 2015 US$),GDP.PCAP,31430.6311303282,36138.5290824719
+Japan,JPN,Life expectancy at birth (years),LIFE_EXPECT,81.0760975609756,84.2109756097561
+Japan,JPN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,1.8,0.9
+Jordan,JOR,Unemployment total (% of total labor force),UNEMPLOY,13.7,18.26
+Jordan,JOR,Consumer price index (2010 = 100),CPI,67.2353965011268,124.654739256782
+Jordan,JOR,Death rate (per 1000 people),DEATH_RATE,3.724,3.15
+Jordan,JOR,GDP per capita (constant 2015 US$),GDP.PCAP,3635.29215802348,3929.68718472936
+Jordan,JOR,Life expectancy at birth (years),LIFE_EXPECT,71.918,75.774
+Jordan,JOR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,16.1,9.4
+Kazakhstan,KAZ,Unemployment total (% of total labor force),UNEMPLOY,12.75,4.85
+Kazakhstan,KAZ,Consumer price index (2010 = 100),CPI,43.7893049639783,179.12069954184
+Kazakhstan,KAZ,Death rate (per 1000 people),DEATH_RATE,10.06,7.14
+Kazakhstan,KAZ,GDP per capita (constant 2015 US$),GDP.PCAP,4446.45186425372,11053.3604014369
+Kazakhstan,KAZ,Life expectancy at birth (years),LIFE_EXPECT,65.45,73.15
+Kazakhstan,KAZ,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,23.7,4.7
+Kenya,KEN,Unemployment total (% of total labor force),UNEMPLOY,3.128,4.245
+Kenya,KEN,Consumer price index (2010 = 100),CPI,38.0878723316079,180.514812183022
+Kenya,KEN,Death rate (per 1000 people),DEATH_RATE,10.677,7.305
+Kenya,KEN,GDP per capita (constant 2015 US$),GDP.PCAP,1187.32580653978,1604.80292678494
+Kenya,KEN,Life expectancy at birth (years),LIFE_EXPECT,54.411,62.676
+Kenya,KEN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,27.3,19.8
+Kiribati,KIR,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Kiribati,KIR,Consumer price index (2010 = 100),CPI,..,102.391033138334
+Kiribati,KIR,Death rate (per 1000 people),DEATH_RATE,7.09,6.345
+Kiribati,KIR,GDP per capita (constant 2015 US$),GDP.PCAP,1477.08842712057,1459.79367404876
+Kiribati,KIR,Life expectancy at birth (years),LIFE_EXPECT,64.409,66.855
+Kiribati,KIR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,27.9,22.2
+North Korea,PRK,Unemployment total (% of total labor force),UNEMPLOY,3.011,2.808
+North Korea,PRK,Consumer price index (2010 = 100),CPI,..,..
+North Korea,PRK,Death rate (per 1000 people),DEATH_RATE,10.763,8.721
+North Korea,PRK,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+North Korea,PRK,Life expectancy at birth (years),LIFE_EXPECT,60.763,73.031
+North Korea,PRK,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,27.4,9.7
+South Korea,KOR,Unemployment total (% of total labor force),UNEMPLOY,4.06,3.82
+South Korea,KOR,Consumer price index (2010 = 100),CPI,73.1145655647234,114.719259179216
+South Korea,KOR,Death rate (per 1000 people),DEATH_RATE,5.2,5.8
+South Korea,KOR,GDP per capita (constant 2015 US$),GDP.PCAP,16992.4790763689,31053.6379289101
+South Korea,KOR,Life expectancy at birth (years),LIFE_EXPECT,75.909756097561,82.6268292682927
+South Korea,KOR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.4,1.5
+Kosovo,XKX,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Kosovo,XKX,Consumer price index (2010 = 100),CPI,..,114.988561700519
+Kosovo,XKX,Death rate (per 1000 people),DEATH_RATE,4.986,5.505
+Kosovo,XKX,GDP per capita (constant 2015 US$),GDP.PCAP,..,4009.12233224441
+Kosovo,XKX,Life expectancy at birth (years),LIFE_EXPECT,74.072,78.696
+Kosovo,XKX,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,27.6,8.7
+Kuwait,KWT,Unemployment total (% of total labor force),UNEMPLOY,0.8,2.158
+Kuwait,KWT,Consumer price index (2010 = 100),CPI,69.9434341326304,125.234145567617
+Kuwait,KWT,Death rate (per 1000 people),DEATH_RATE,1.868,2.052
+Kuwait,KWT,GDP per capita (constant 2015 US$),GDP.PCAP,31662.8115135271,26664.6310993849
+Kuwait,KWT,Life expectancy at birth (years),LIFE_EXPECT,76.722,79.722
+Kuwait,KWT,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,6.6,4.9
+Kyrgyz Republic,KGZ,Unemployment total (% of total labor force),UNEMPLOY,1.983,3.67
+Kyrgyz Republic,KGZ,Consumer price index (2010 = 100),CPI,48.9869015768215,153.931154097371
+Kyrgyz Republic,KGZ,Death rate (per 1000 people),DEATH_RATE,7,5.2
+Kyrgyz Republic,KGZ,GDP per capita (constant 2015 US$),GDP.PCAP,718.337256607741,1197.61057003683
+Kyrgyz Republic,KGZ,Life expectancy at birth (years),LIFE_EXPECT,68.5585365853659,71.4
+Kyrgyz Republic,KGZ,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,20.3,13
+Lao PDR,LAO,Unemployment total (% of total labor force),UNEMPLOY,2.04,3.266
+Lao PDR,LAO,Consumer price index (2010 = 100),CPI,48.1443015869662,131.497493121167
+Lao PDR,LAO,Death rate (per 1000 people),DEATH_RATE,10.256,6.755
+Lao PDR,LAO,GDP per capita (constant 2015 US$),GDP.PCAP,917.288738350594,2467.95576150974
+Lao PDR,LAO,Life expectancy at birth (years),LIFE_EXPECT,58.378,67.634
+Lao PDR,LAO,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,38.3,22.7
+Latvia,LVA,Unemployment total (% of total labor force),UNEMPLOY,14.21,7.41
+Latvia,LVA,Consumer price index (2010 = 100),CPI,59.1728345741562,113.661494917447
+Latvia,LVA,Death rate (per 1000 people),DEATH_RATE,13.6,15
+Latvia,LVA,GDP per capita (constant 2015 US$),GDP.PCAP,6725.33754041856,15558.6917797211
+Latvia,LVA,Life expectancy at birth (years),LIFE_EXPECT,70.3146341463415,74.7829268292683
+Latvia,LVA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,7.2,2.3
+Lebanon,LBN,Unemployment total (% of total labor force),UNEMPLOY,8.318,10.728
+Lebanon,LBN,Consumer price index (2010 = 100),CPI,..,126.230882092859
+Lebanon,LBN,Death rate (per 1000 people),DEATH_RATE,4.554,4.704
+Lebanon,LBN,GDP per capita (constant 2015 US$),GDP.PCAP,5970.97454633499,8435.63735413766
+Lebanon,LBN,Life expectancy at birth (years),LIFE_EXPECT,73.931,79.729
+Lebanon,LBN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,11.8,5.1
+Lesotho,LSO,Unemployment total (% of total labor force),UNEMPLOY,17,16.918
+Lesotho,LSO,Consumer price index (2010 = 100),CPI,69.3498915430789,148.172370359897
+Lesotho,LSO,Death rate (per 1000 people),DEATH_RATE,16.083,13.259
+Lesotho,LSO,GDP per capita (constant 2015 US$),GDP.PCAP,727.232834451414,1061.4324235502
+Lesotho,LSO,Life expectancy at birth (years),LIFE_EXPECT,48.427,53.733
+Lesotho,LSO,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,35.5,37
+Liberia,LBR,Unemployment total (% of total labor force),UNEMPLOY,2.123,3.025
+Liberia,LBR,Consumer price index (2010 = 100),CPI,..,223.129788020628
+Liberia,LBR,Death rate (per 1000 people),DEATH_RATE,15.228,8.793
+Liberia,LBR,GDP per capita (constant 2015 US$),GDP.PCAP,763.426872528757,673.411391957645
+Liberia,LBR,Life expectancy at birth (years),LIFE_EXPECT,51.356,60.853
+Liberia,LBR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,48,31.4
+Libya,LBY,Unemployment total (% of total labor force),UNEMPLOY,19.806,19.446
+Libya,LBY,Consumer price index (2010 = 100),CPI,98.8052867026555,..
+Libya,LBY,Death rate (per 1000 people),DEATH_RATE,4.686,5.245
+Libya,LBY,GDP per capita (constant 2015 US$),GDP.PCAP,11170.1299869712,10595.2468300703
+Libya,LBY,Life expectancy at birth (years),LIFE_EXPECT,70.68,72.794
+Libya,LBY,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,15.1,6.4
+Liechtenstein,LIE,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Liechtenstein,LIE,Consumer price index (2010 = 100),CPI,..,..
+Liechtenstein,LIE,Death rate (per 1000 people),DEATH_RATE,7.3,7.2
+Liechtenstein,LIE,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+Liechtenstein,LIE,Life expectancy at birth (years),LIFE_EXPECT,76.8268292682927,83.0414634146342
+Liechtenstein,LIE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Lithuania,LTU,Unemployment total (% of total labor force),UNEMPLOY,15.93,6.15
+Lithuania,LTU,Consumer price index (2010 = 100),CPI,74.4044778412456,115.681502787888
+Lithuania,LTU,Death rate (per 1000 people),DEATH_RATE,11.1,14.1
+Lithuania,LTU,GDP per capita (constant 2015 US$),GDP.PCAP,6423.42067622444,16443.5852875776
+Lithuania,LTU,Life expectancy at birth (years),LIFE_EXPECT,72.0195121951219,75.6804878048781
+Lithuania,LTU,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,4.5,2.2
+Luxembourg,LUX,Unemployment total (% of total labor force),UNEMPLOY,2.35,5.59
+Luxembourg,LUX,Consumer price index (2010 = 100),CPI,80.0532095732096,113.115843115843
+Luxembourg,LUX,Death rate (per 1000 people),DEATH_RATE,8.6,7.1
+Luxembourg,LUX,GDP per capita (constant 2015 US$),GDP.PCAP,92527.7118069642,106376.783565763
+Luxembourg,LUX,Life expectancy at birth (years),LIFE_EXPECT,77.8731707317073,82.2951219512195
+Luxembourg,LUX,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.3,1.7
+Macao,MAC,Unemployment total (% of total labor force),UNEMPLOY,6.87,1.83
+Macao,MAC,Consumer price index (2010 = 100),CPI,80.5231872434779,140.187290654338
+Macao,MAC,Death rate (per 1000 people),DEATH_RATE,3.64,3.86
+Macao,MAC,GDP per capita (constant 2015 US$),GDP.PCAP,31667.8611224872,80477.6772351357
+Macao,MAC,Life expectancy at birth (years),LIFE_EXPECT,80.959,84.928
+Macao,MAC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Madagascar,MDG,Unemployment total (% of total labor force),UNEMPLOY,5.8,1.833
+Madagascar,MDG,Consumer price index (2010 = 100),CPI,37.7489052028752,174.522893053767
+Madagascar,MDG,Death rate (per 1000 people),DEATH_RATE,10.385,6.736
+Madagascar,MDG,GDP per capita (constant 2015 US$),GDP.PCAP,474.139021863369,470.423898206918
+Madagascar,MDG,Life expectancy at birth (years),LIFE_EXPECT,57.938,65.27
+Madagascar,MDG,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,31.1,24
+Malawi,MWI,Unemployment total (% of total labor force),UNEMPLOY,4.923,4.949
+Malawi,MWI,Consumer price index (2010 = 100),CPI,32.3572237502022,382.500802418103
+Malawi,MWI,Death rate (per 1000 people),DEATH_RATE,19.559,6.955
+Malawi,MWI,GDP per capita (constant 2015 US$),GDP.PCAP,421.81945791554,558.560452329935
+Malawi,MWI,Life expectancy at birth (years),LIFE_EXPECT,44.518,63.276
+Malawi,MWI,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,38.7,20.7
+Malaysia,MYS,Unemployment total (% of total labor force),UNEMPLOY,3,3.3
+Malaysia,MYS,Consumer price index (2010 = 100),CPI,80.519271906486,120.663222796201
+Malaysia,MYS,Death rate (per 1000 people),DEATH_RATE,4.584,5.175
+Malaysia,MYS,GDP per capita (constant 2015 US$),GDP.PCAP,6461.98091059065,10777.7492376633
+Malaysia,MYS,Life expectancy at birth (years),LIFE_EXPECT,72.775,75.644
+Malaysia,MYS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5.1,4.2
+Maldives,MDV,Unemployment total (% of total labor force),UNEMPLOY,1.97,4.971
+Maldives,MDV,Consumer price index (2010 = 100),CPI,71.0834165856345,136.263355033873
+Maldives,MDV,Death rate (per 1000 people),DEATH_RATE,4.458,2.828
+Maldives,MDV,GDP per capita (constant 2015 US$),GDP.PCAP,6904.65232159878,10342.889121625
+Maldives,MDV,Life expectancy at birth (years),LIFE_EXPECT,70.876,80.013
+Maldives,MDV,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,22.5,5.1
+Mali,MLI,Unemployment total (% of total labor force),UNEMPLOY,1.306,1.62
+Mali,MLI,Consumer price index (2010 = 100),CPI,76.4073268628188,110.559450578237
+Mali,MLI,Death rate (per 1000 people),DEATH_RATE,15.984,9.419
+Mali,MLI,GDP per capita (constant 2015 US$),GDP.PCAP,556.772394087957,767.571595544437
+Mali,MLI,Life expectancy at birth (years),LIFE_EXPECT,50.539,59.393
+Mali,MLI,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,51,35.2
+Malta,MLT,Unemployment total (% of total labor force),UNEMPLOY,6.32,3.66
+Malta,MLT,Consumer price index (2010 = 100),CPI,78.8368213537536,111.619613085975
+Malta,MLT,Death rate (per 1000 people),DEATH_RATE,7.5,7.6
+Malta,MLT,GDP per capita (constant 2015 US$),GDP.PCAP,17189.6323276122,27856.7644320024
+Malta,MLT,Life expectancy at birth (years),LIFE_EXPECT,78.3487804878049,82.4487804878049
+Malta,MLT,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5.1,4.2
+Marshall Islands,MHL,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Marshall Islands,MHL,Consumer price index (2010 = 100),CPI,..,..
+Marshall Islands,MHL,Death rate (per 1000 people),DEATH_RATE,6.388,7.187
+Marshall Islands,MHL,GDP per capita (constant 2015 US$),GDP.PCAP,2786.34184125111,4373.87636173868
+Marshall Islands,MHL,Life expectancy at birth (years),LIFE_EXPECT,63.275,64.5
+Marshall Islands,MHL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,18.9,15.2
+Mauritania,MRT,Unemployment total (% of total labor force),UNEMPLOY,10.049,10.391
+Mauritania,MRT,Consumer price index (2010 = 100),CPI,53.1532331319081,131.983161831254
+Mauritania,MRT,Death rate (per 1000 people),DEATH_RATE,8.856,7.248
+Mauritania,MRT,GDP per capita (constant 2015 US$),GDP.PCAP,1265.16043771711,1628.03887169419
+Mauritania,MRT,Life expectancy at birth (years),LIFE_EXPECT,61.028,65.31
+Mauritania,MRT,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,39,24.2
+Mauritius,MUS,Unemployment total (% of total labor force),UNEMPLOY,9.142,6.43
+Mauritius,MUS,Consumer price index (2010 = 100),CPI,56.8934453545595,129.389161086851
+Mauritius,MUS,Death rate (per 1000 people),DEATH_RATE,6.7,8.5
+Mauritius,MUS,GDP per capita (constant 2015 US$),GDP.PCAP,5671.0295504201,10652.4836886859
+Mauritius,MUS,Life expectancy at birth (years),LIFE_EXPECT,71.6634146341463,74.4163414634146
+Mauritius,MUS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,12.4,9.7
+Mexico,MEX,Unemployment total (% of total labor force),UNEMPLOY,2.65,3.27
+Mexico,MEX,Consumer price index (2010 = 100),CPI,63.3128119183035,136.57664871233
+Mexico,MEX,Death rate (per 1000 people),DEATH_RATE,4.997,6.856
+Mexico,MEX,GDP per capita (constant 2015 US$),GDP.PCAP,8954.82320779411,10120.3848292553
+Mexico,MEX,Life expectancy at birth (years),LIFE_EXPECT,73.569,74.015
+Mexico,MEX,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,14.3,8.7
+Micronesia,FSM,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Micronesia,FSM,Consumer price index (2010 = 100),CPI,72.4204659619855,113.844143545724
+Micronesia,FSM,Death rate (per 1000 people),DEATH_RATE,4.953,5.472
+Micronesia,FSM,GDP per capita (constant 2015 US$),GDP.PCAP,2783.11617688558,2962.23858125628
+Micronesia,FSM,Life expectancy at birth (years),LIFE_EXPECT,69.769,71.318
+Micronesia,FSM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,20.2,14.3
+Moldova,MDA,Unemployment total (% of total labor force),UNEMPLOY,8.46,2.91
+Moldova,MDA,Consumer price index (2010 = 100),CPI,40.0302451908516,158.527082570638
+Moldova,MDA,Death rate (per 1000 people),DEATH_RATE,12.993,13.339
+Moldova,MDA,GDP per capita (constant 2015 US$),GDP.PCAP,1347.09284048658,3268.42596665742
+Moldova,MDA,Life expectancy at birth (years),LIFE_EXPECT,66.417,70.492
+Moldova,MDA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,20.7,11.2
+Monaco,MCO,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Monaco,MCO,Consumer price index (2010 = 100),CPI,..,..
+Monaco,MCO,Death rate (per 1000 people),DEATH_RATE,..,6.6
+Monaco,MCO,GDP per capita (constant 2015 US$),GDP.PCAP,120467.751945702,178868.246459563
+Monaco,MCO,Life expectancy at birth (years),LIFE_EXPECT,..,..
+Monaco,MCO,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.8,1.7
+Mongolia,MNG,Unemployment total (% of total labor force),UNEMPLOY,6.086,5.38
+Mongolia,MNG,Consumer price index (2010 = 100),CPI,41.6342115099873,182.438973559454
+Mongolia,MNG,Death rate (per 1000 people),DEATH_RATE,7.359,5.663
+Mongolia,MNG,GDP per capita (constant 2015 US$),GDP.PCAP,1557.438440439,4242.30022232486
+Mongolia,MNG,Life expectancy at birth (years),LIFE_EXPECT,62.882,71.199
+Mongolia,MNG,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,23.5,8.7
+Montenegro,MNE,Unemployment total (% of total labor force),UNEMPLOY,28.803,15.19
+Montenegro,MNE,Consumer price index (2010 = 100),CPI,..,116.320125570259
+Montenegro,MNE,Death rate (per 1000 people),DEATH_RATE,9,10.5
+Montenegro,MNE,GDP per capita (constant 2015 US$),GDP.PCAP,4431.59838848296,7381.80417286363
+Montenegro,MNE,Life expectancy at birth (years),LIFE_EXPECT,73.8184878048781,76.8414634146342
+Montenegro,MNE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,8.5,1.4
+Morocco,MAR,Unemployment total (% of total labor force),UNEMPLOY,13.58,9.239
+Morocco,MAR,Consumer price index (2010 = 100),CPI,83.6497532900759,110.731613965106
+Morocco,MAR,Death rate (per 1000 people),DEATH_RATE,6.432,5.637
+Morocco,MAR,GDP per capita (constant 2015 US$),GDP.PCAP,1948.3544921875,3296.19409179688
+Morocco,MAR,Life expectancy at birth (years),LIFE_EXPECT,66.787,73.986
+Morocco,MAR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,28.4,12.6
+Mozambique,MOZ,Unemployment total (% of total labor force),UNEMPLOY,2.886,3.455
+Mozambique,MOZ,Consumer price index (2010 = 100),CPI,..,177.38161216446
+Mozambique,MOZ,Death rate (per 1000 people),DEATH_RATE,15.677,8.337
+Mozambique,MOZ,GDP per capita (constant 2015 US$),GDP.PCAP,293.708858339491,604.007560604628
+Mozambique,MOZ,Life expectancy at birth (years),LIFE_EXPECT,49.491,60.526
+Mozambique,MOZ,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,47.5,29.4
+Myanmar,MMR,Unemployment total (% of total labor force),UNEMPLOY,0.654,0.77
+Myanmar,MMR,Consumer price index (2010 = 100),CPI,14.9913128688885,154.544081933578
+Myanmar,MMR,Death rate (per 1000 people),DEATH_RATE,9.995,8.622
+Myanmar,MMR,GDP per capita (constant 2015 US$),GDP.PCAP,318.006931888885,1488.53054947365
+Myanmar,MMR,Life expectancy at birth (years),LIFE_EXPECT,60.155,66.465
+Myanmar,MMR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,37.4,23.2
+Namibia,NAM,Unemployment total (% of total labor force),UNEMPLOY,20.3,19.88
+Namibia,NAM,Consumer price index (2010 = 100),CPI,..,152.29919176551
+Namibia,NAM,Death rate (per 1000 people),DEATH_RATE,12.718,8.403
+Namibia,NAM,GDP per capita (constant 2015 US$),GDP.PCAP,3082.75924729664,4714.45257924139
+Namibia,NAM,Life expectancy at birth (years),LIFE_EXPECT,51.99,62.586
+Namibia,NAM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,23.6,20.6
+Nauru,NRU,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Nauru,NRU,Consumer price index (2010 = 100),CPI,..,..
+Nauru,NRU,Death rate (per 1000 people),DEATH_RATE,8.238,6.566
+Nauru,NRU,GDP per capita (constant 2015 US$),GDP.PCAP,..,7757.55741134353
+Nauru,NRU,Life expectancy at birth (years),LIFE_EXPECT,58.732,63.234
+Nauru,NRU,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,25.6,19.5
+Nepal,NPL,Unemployment total (% of total labor force),UNEMPLOY,10.604,10.623
+Nepal,NPL,Consumer price index (2010 = 100),CPI,55.7535086649626,178.774582924802
+Nepal,NPL,Death rate (per 1000 people),DEATH_RATE,8.294,7.041
+Nepal,NPL,GDP per capita (constant 2015 US$),GDP.PCAP,546.931625199911,1006.60690912742
+Nepal,NPL,Life expectancy at birth (years),LIFE_EXPECT,62.614,68.979
+Nepal,NPL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,39.2,18.3
+Netherlands,NLD,Unemployment total (% of total labor force),UNEMPLOY,2.73,3.83
+Netherlands,NLD,Consumer price index (2010 = 100),CPI,81.9474646746795,112.933662096136
+Netherlands,NLD,Death rate (per 1000 people),DEATH_RATE,8.8,8.9
+Netherlands,NLD,GDP per capita (constant 2015 US$),GDP.PCAP,40456.9422374474,47826.8191172843
+Netherlands,NLD,Life expectancy at birth (years),LIFE_EXPECT,77.9878048780488,81.8121951219512
+Netherlands,NLD,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.8,2.6
+New Caledonia,NCL,Unemployment total (% of total labor force),UNEMPLOY,17.479,11.603
+New Caledonia,NCL,Consumer price index (2010 = 100),CPI,..,..
+New Caledonia,NCL,Death rate (per 1000 people),DEATH_RATE,5.1,5.7
+New Caledonia,NCL,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+New Caledonia,NCL,Life expectancy at birth (years),LIFE_EXPECT,75.1634146341463,80.0030975609756
+New Caledonia,NCL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+New Zealand,NZL,Unemployment total (% of total labor force),UNEMPLOY,6.13,4.33
+New Zealand,NZL,Consumer price index (2010 = 100),CPI,76.9981372744839,112.420119642595
+New Zealand,NZL,Death rate (per 1000 people),DEATH_RATE,6.91,6.78
+New Zealand,NZL,GDP per capita (constant 2015 US$),GDP.PCAP,30825.9567973652,40422.3457941784
+New Zealand,NZL,Life expectancy at birth (years),LIFE_EXPECT,78.6365853658537,81.7073170731707
+New Zealand,NZL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.5,2.7
+Nicaragua,NIC,Unemployment total (% of total labor force),UNEMPLOY,7.394,5.2
+Nicaragua,NIC,Consumer price index (2010 = 100),CPI,45.7150162186723,154.436645452421
+Nicaragua,NIC,Death rate (per 1000 people),DEATH_RATE,5.547,4.605
+Nicaragua,NIC,GDP per capita (constant 2015 US$),GDP.PCAP,1429.72851313553,2052.13590174056
+Nicaragua,NIC,Life expectancy at birth (years),LIFE_EXPECT,67.234,73.85
+Nicaragua,NIC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,16.9,9.3
+Niger,NER,Unemployment total (% of total labor force),UNEMPLOY,1.521,0.542
+Niger,NER,Consumer price index (2010 = 100),CPI,77.9951800030077,112.115120867278
+Niger,NER,Death rate (per 1000 people),DEATH_RATE,17.431,8.061
+Niger,NER,GDP per capita (constant 2015 US$),GDP.PCAP,389.077522980843,510.573131003546
+Niger,NER,Life expectancy at birth (years),LIFE_EXPECT,49.322,62.454
+Niger,NER,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,44.1,33.9
+Nigeria,NGA,Unemployment total (% of total labor force),UNEMPLOY,3.852,4.963
+Nigeria,NGA,Consumer price index (2010 = 100),CPI,29.6000717229021,240.138364526616
+Nigeria,NGA,Death rate (per 1000 people),DEATH_RATE,17.464,13.239
+Nigeria,NGA,GDP per capita (constant 2015 US$),GDP.PCAP,1462.53629195275,2512.0809827586
+Nigeria,NGA,Life expectancy at birth (years),LIFE_EXPECT,47.193,52.554
+Nigeria,NGA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,46.4,36.4
+North Macedonia,MKD,Unemployment total (% of total labor force),UNEMPLOY,32.2,21.2
+North Macedonia,MKD,Consumer price index (2010 = 100),CPI,79.9059590549901,112.533333333333
+North Macedonia,MKD,Death rate (per 1000 people),DEATH_RATE,8.5,9.5
+North Macedonia,MKD,GDP per capita (constant 2015 US$),GDP.PCAP,3283.37934095351,5184.69680504137
+North Macedonia,MKD,Life expectancy at birth (years),LIFE_EXPECT,72.9463414634147,76.6487804878049
+North Macedonia,MKD,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,9.4,5.5
+Northern Mariana Islands,MNP,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Northern Mariana Islands,MNP,Consumer price index (2010 = 100),CPI,..,..
+Northern Mariana Islands,MNP,Death rate (per 1000 people),DEATH_RATE,..,..
+Northern Mariana Islands,MNP,GDP per capita (constant 2015 US$),GDP.PCAP,..,23242.9254375819
+Northern Mariana Islands,MNP,Life expectancy at birth (years),LIFE_EXPECT,..,..
+Northern Mariana Islands,MNP,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Norway,NOR,Unemployment total (% of total labor force),UNEMPLOY,3.46,3.8
+Norway,NOR,Consumer price index (2010 = 100),CPI,81.9292371731065,117.717853587911
+Norway,NOR,Death rate (per 1000 people),DEATH_RATE,9.8,7.7
+Norway,NOR,GDP per capita (constant 2015 US$),GDP.PCAP,67846.5968530147,76373.6474592839
+Norway,NOR,Life expectancy at birth (years),LIFE_EXPECT,78.6341463414634,82.7585365853659
+Norway,NOR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.7,1.4
+Oman,OMN,Unemployment total (% of total labor force),UNEMPLOY,4.066,1.8
+Oman,OMN,Consumer price index (2010 = 100),CPI,74.7676129523116,113.377592176179
+Oman,OMN,Death rate (per 1000 people),DEATH_RATE,3.156,2.172
+Oman,OMN,GDP per capita (constant 2015 US$),GDP.PCAP,19953.6751804852,18256.6531453301
+Oman,OMN,Life expectancy at birth (years),LIFE_EXPECT,73.466,77.966
+Oman,OMN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,7.3,4.8
+Pakistan,PAK,Unemployment total (% of total labor force),UNEMPLOY,0.611,4.08
+Pakistan,PAK,Consumer price index (2010 = 100),CPI,43.4116982349521,164.879393855103
+Pakistan,PAK,Death rate (per 1000 people),DEATH_RATE,8.77,6.843
+Pakistan,PAK,GDP per capita (constant 2015 US$),GDP.PCAP,948.938461456233,1440.42525197924
+Pakistan,PAK,Life expectancy at birth (years),LIFE_EXPECT,62.102,66.482
+Pakistan,PAK,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,57,42.3
+Palau,PLW,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Palau,PLW,Consumer price index (2010 = 100),CPI,..,120.825527447798
+Palau,PLW,Death rate (per 1000 people),DEATH_RATE,6.5,7.8
+Palau,PLW,GDP per capita (constant 2015 US$),GDP.PCAP,11392.0359999667,15062.9567623759
+Palau,PLW,Life expectancy at birth (years),LIFE_EXPECT,70.4936585365854,..
+Palau,PLW,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,15.2,9.4
+Panama,PAN,Unemployment total (% of total labor force),UNEMPLOY,6.051,5.218
+Panama,PAN,Consumer price index (2010 = 100),CPI,77.3109173987244,122.502555459873
+Panama,PAN,Death rate (per 1000 people),DEATH_RATE,4.768,5.013
+Panama,PAN,GDP per capita (constant 2015 US$),GDP.PCAP,7021.54644978138,14922.1299997158
+Panama,PAN,Life expectancy at birth (years),LIFE_EXPECT,74.001,77.863
+Panama,PAN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,14.7,8.6
+Papua New Guinea,PNG,Unemployment total (% of total labor force),UNEMPLOY,2.92,2.538
+Papua New Guinea,PNG,Consumer price index (2010 = 100),CPI,52.9052728461743,150.018897576695
+Papua New Guinea,PNG,Death rate (per 1000 people),DEATH_RATE,7.471,6.532
+Papua New Guinea,PNG,GDP per capita (constant 2015 US$),GDP.PCAP,1999.96960896241,2536.08349331639
+Papua New Guinea,PNG,Life expectancy at birth (years),LIFE_EXPECT,61.72,65.182
+Papua New Guinea,PNG,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,30.2,22.6
+Paraguay,PRY,Unemployment total (% of total labor force),UNEMPLOY,7.61,6.22
+Paraguay,PRY,Consumer price index (2010 = 100),CPI,47.2891418303388,139.962148394241
+Paraguay,PRY,Death rate (per 1000 people),DEATH_RATE,5.621,5.569
+Paraguay,PRY,GDP per capita (constant 2015 US$),GDP.PCAP,4056.23034675612,6338.50051617107
+Paraguay,PRY,Life expectancy at birth (years),LIFE_EXPECT,69.75,73.568
+Paraguay,PRY,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,18.1,10.7
+Peru,PER,Unemployment total (% of total labor force),UNEMPLOY,4.898,3.49
+Peru,PER,Consumer price index (2010 = 100),CPI,79.1618539622357,127.420766879303
+Peru,PER,Death rate (per 1000 people),DEATH_RATE,5.782,6.103
+Peru,PER,GDP per capita (constant 2015 US$),GDP.PCAP,3279.35518114583,6530.42250235755
+Peru,PER,Life expectancy at birth (years),LIFE_EXPECT,70.424,76.009
+Peru,PER,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,16.5,7.7
+Philippines,PHL,Unemployment total (% of total labor force),UNEMPLOY,3.655,2.34
+Philippines,PHL,Consumer price index (2010 = 100),CPI,63.6514522821577,126.593789832853
+Philippines,PHL,Death rate (per 1000 people),DEATH_RATE,5.729,5.631
+Philippines,PHL,GDP per capita (constant 2015 US$),GDP.PCAP,1831.69920990202,3439.1005276189
+Philippines,PHL,Life expectancy at birth (years),LIFE_EXPECT,69.413,71.689
+Philippines,PHL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,16.5,13.3
+Poland,POL,Unemployment total (% of total labor force),UNEMPLOY,16.31,3.85
+Poland,POL,Consumer price index (2010 = 100),CPI,76.0476059850374,111.625348393722
+Poland,POL,Death rate (per 1000 people),DEATH_RATE,9.6,10.9
+Poland,POL,GDP per capita (constant 2015 US$),GDP.PCAP,7344.12076059522,14408.384388723
+Poland,POL,Life expectancy at birth (years),LIFE_EXPECT,73.7487804878049,77.6024390243903
+Poland,POL,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5.8,2.8
+Portugal,PRT,Unemployment total (% of total labor force),UNEMPLOY,3.81,6.99
+Portugal,PRT,Consumer price index (2010 = 100),CPI,78.5323684294627,110.25151180504
+Portugal,PRT,Death rate (per 1000 people),DEATH_RATE,10.2,11
+Portugal,PRT,GDP per capita (constant 2015 US$),GDP.PCAP,18795.0311479834,21057.6174784232
+Portugal,PRT,Life expectancy at birth (years),LIFE_EXPECT,76.3146341463415,81.3243902439024
+Portugal,PRT,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.4,2
+Puerto Rico,PRI,Unemployment total (% of total labor force),UNEMPLOY,10.08,9.2
+Puerto Rico,PRI,Consumer price index (2010 = 100),CPI,..,..
+Puerto Rico,PRI,Death rate (per 1000 people),DEATH_RATE,7.48,9.063
+Puerto Rico,PRI,GDP per capita (constant 2015 US$),GDP.PCAP,26132.0036445504,29687.2064763276
+Puerto Rico,PRI,Life expectancy at birth (years),LIFE_EXPECT,75.977,79.77
+Puerto Rico,PRI,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Qatar,QAT,Unemployment total (% of total labor force),UNEMPLOY,0.842,0.11
+Qatar,QAT,Consumer price index (2010 = 100),CPI,60.8834509095827,116.15518806629
+Qatar,QAT,Death rate (per 1000 people),DEATH_RATE,2.278,0.982
+Qatar,QAT,GDP per capita (constant 2015 US$),GDP.PCAP,52157.7633475495,60080.696551117
+Qatar,QAT,Life expectancy at birth (years),LIFE_EXPECT,74.828,80.898
+Qatar,QAT,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,6.6,3.7
+Romania,ROU,Unemployment total (% of total labor force),UNEMPLOY,6.97,4.19
+Romania,ROU,Consumer price index (2010 = 100),CPI,31.9822220530293,119.216932828292
+Romania,ROU,Death rate (per 1000 people),DEATH_RATE,11.4,13.6
+Romania,ROU,GDP per capita (constant 2015 US$),GDP.PCAP,4567.24005700946,10778.449248216
+Romania,ROU,Life expectancy at birth (years),LIFE_EXPECT,71.1634146341463,75.3585365853659
+Romania,ROU,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,10.5,3.4
+Russian Federation,RUS,Unemployment total (% of total labor force),UNEMPLOY,10.58,4.85
+Russian Federation,RUS,Consumer price index (2010 = 100),CPI,30.7595536540074,173.015822116403
+Russian Federation,RUS,Death rate (per 1000 people),DEATH_RATE,15.3,12.5
+Russian Federation,RUS,GDP per capita (constant 2015 US$),GDP.PCAP,5323.66650390625,9739.908203125
+Russian Federation,RUS,Life expectancy at birth (years),LIFE_EXPECT,65.4836585365854,72.6621951219512
+Russian Federation,RUS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,9,2.9
+Rwanda,RWA,Unemployment total (% of total labor force),UNEMPLOY,11.936,12.1
+Rwanda,RWA,Consumer price index (2010 = 100),CPI,46.7113656890543,146.172962049541
+Rwanda,RWA,Death rate (per 1000 people),DEATH_RATE,15.774,6.227
+Rwanda,RWA,GDP per capita (constant 2015 US$),GDP.PCAP,337.631910732749,815.050688012274
+Rwanda,RWA,Life expectancy at birth (years),LIFE_EXPECT,47.129,66.251
+Rwanda,RWA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,43.6,18.6
+Samoa,WSM,Unemployment total (% of total labor force),UNEMPLOY,4.664,9.472
+Samoa,WSM,Consumer price index (2010 = 100),CPI,57.4140461853125,116.411976345519
+Samoa,WSM,Death rate (per 1000 people),DEATH_RATE,5.138,5.297
+Samoa,WSM,GDP per capita (constant 2015 US$),GDP.PCAP,2908.18843177317,4277.3419561037
+Samoa,WSM,Life expectancy at birth (years),LIFE_EXPECT,70.746,72.636
+Samoa,WSM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,8.8,7
+San Marino,SMR,Unemployment total (% of total labor force),UNEMPLOY,..,..
+San Marino,SMR,Consumer price index (2010 = 100),CPI,..,..
+San Marino,SMR,Death rate (per 1000 people),DEATH_RATE,..,7.1
+San Marino,SMR,GDP per capita (constant 2015 US$),GDP.PCAP,55756.9622865826,43277.501413246
+San Marino,SMR,Life expectancy at birth (years),LIFE_EXPECT,..,..
+San Marino,SMR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.8,0.9
+Sao Tome and Principe,STP,Unemployment total (% of total labor force),UNEMPLOY,14.4,13.998
+Sao Tome and Principe,STP,Consumer price index (2010 = 100),CPI,22.3493334419534,185.089551682324
+Sao Tome and Principe,STP,Death rate (per 1000 people),DEATH_RATE,9.334,5.879
+Sao Tome and Principe,STP,GDP per capita (constant 2015 US$),GDP.PCAP,..,1665.39571641412
+Sao Tome and Principe,STP,Life expectancy at birth (years),LIFE_EXPECT,61.655,68.355
+Sao Tome and Principe,STP,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,22.2,9
+Saudi Arabia,SAU,Unemployment total (% of total labor force),UNEMPLOY,4.57,6.03
+Saudi Arabia,SAU,Consumer price index (2010 = 100),CPI,76.6908849105082,120.93132112752
+Saudi Arabia,SAU,Death rate (per 1000 people),DEATH_RATE,3.482,2.655
+Saudi Arabia,SAU,GDP per capita (constant 2015 US$),GDP.PCAP,17018.6118875931,20096.552487567
+Saudi Arabia,SAU,Life expectancy at birth (years),LIFE_EXPECT,72.467,77.212
+Saudi Arabia,SAU,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,11.6,3.8
+Senegal,SEN,Unemployment total (% of total labor force),UNEMPLOY,5.582,3.57
+Senegal,SEN,Consumer price index (2010 = 100),CPI,80.8836341575528,107.363218008605
+Senegal,SEN,Death rate (per 1000 people),DEATH_RATE,11.181,5.579
+Senegal,SEN,GDP per capita (constant 2015 US$),GDP.PCAP,1076.89230453299,1384.64207472079
+Senegal,SEN,Life expectancy at birth (years),LIFE_EXPECT,56.943,68.097
+Senegal,SEN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,38.1,23
+Serbia,SRB,Unemployment total (% of total labor force),UNEMPLOY,12.6,12.73
+Serbia,SRB,Consumer price index (2010 = 100),CPI,19.7576882232953,141.383075523203
+Serbia,SRB,Death rate (per 1000 people),DEATH_RATE,13.8,14.6
+Serbia,SRB,GDP per capita (constant 2015 US$),GDP.PCAP,3193.25900294056,6261.52570046486
+Serbia,SRB,Life expectancy at birth (years),LIFE_EXPECT,71.5829268292683,75.890243902439
+Serbia,SRB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,7.7,3.7
+Seychelles,SYC,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Seychelles,SYC,Consumer price index (2010 = 100),CPI,47.0771604674719,127.652648173983
+Seychelles,SYC,Death rate (per 1000 people),DEATH_RATE,6.8,8.4
+Seychelles,SYC,GDP per capita (constant 2015 US$),GDP.PCAP,11883.9045043124,16110.9852429799
+Seychelles,SYC,Life expectancy at birth (years),LIFE_EXPECT,72.7780487804878,72.8414634146341
+Seychelles,SYC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,8.8,9
+Sierra Leone,SLE,Unemployment total (% of total labor force),UNEMPLOY,3.425,3.19
+Sierra Leone,SLE,Consumer price index (2010 = 100),CPI,..,203.964069000238
+Sierra Leone,SLE,Death rate (per 1000 people),DEATH_RATE,19.794,9.308
+Sierra Leone,SLE,GDP per capita (constant 2015 US$),GDP.PCAP,400.598934284692,617.529519430669
+Sierra Leone,SLE,Life expectancy at birth (years),LIFE_EXPECT,45.05,59.796
+Sierra Leone,SLE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,48.4,32.9
+Singapore,SGP,Unemployment total (% of total labor force),UNEMPLOY,3.7,3.641
+Singapore,SGP,Consumer price index (2010 = 100),CPI,85.1991347672751,113.762730027133
+Singapore,SGP,Death rate (per 1000 people),DEATH_RATE,4.5,5
+Singapore,SGP,GDP per capita (constant 2015 US$),GDP.PCAP,34890.0811365168,61276.9465931259
+Singapore,SGP,Life expectancy at birth (years),LIFE_EXPECT,77.9512195121951,83.2975609756098
+Singapore,SGP,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,1.6,1
+Sint Maarten (Dutch part),SXM,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Sint Maarten (Dutch part),SXM,Consumer price index (2010 = 100),CPI,..,..
+Sint Maarten (Dutch part),SXM,Death rate (per 1000 people),DEATH_RATE,3.745,4
+Sint Maarten (Dutch part),SXM,GDP per capita (constant 2015 US$),GDP.PCAP,..,27093.797137995
+Sint Maarten (Dutch part),SXM,Life expectancy at birth (years),LIFE_EXPECT,74.514,75.131
+Sint Maarten (Dutch part),SXM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+Slovak Republic,SVK,Unemployment total (% of total labor force),UNEMPLOY,19.06,6.54
+Slovak Republic,SVK,Consumer price index (2010 = 100),CPI,65.3990786628971,112.345473695881
+Slovak Republic,SVK,Death rate (per 1000 people),DEATH_RATE,9.8,10
+Slovak Republic,SVK,GDP per capita (constant 2015 US$),GDP.PCAP,8914.59898415289,17818.2341072167
+Slovak Republic,SVK,Life expectancy at birth (years),LIFE_EXPECT,73.0512195121951,77.2658536585366
+Slovak Republic,SVK,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5,2.9
+Slovenia,SVN,Unemployment total (% of total labor force),UNEMPLOY,6.92,5.11
+Slovenia,SVN,Consumer price index (2010 = 100),CPI,66.5351167615768,109.269412439853
+Slovenia,SVN,Death rate (per 1000 people),DEATH_RATE,9.3,9.9
+Slovenia,SVN,GDP per capita (constant 2015 US$),GDP.PCAP,16240.6568860495,23483.529124564
+Slovenia,SVN,Life expectancy at birth (years),LIFE_EXPECT,75.4121951219512,81.3780487804878
+Slovenia,SVN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.2,1.4
+Solomon Islands,SLB,Unemployment total (% of total labor force),UNEMPLOY,2.112,0.714
+Solomon Islands,SLB,Consumer price index (2010 = 100),CPI,44.6043518575463,130.921653412479
+Solomon Islands,SLB,Death rate (per 1000 people),DEATH_RATE,5.939,5.052
+Solomon Islands,SLB,GDP per capita (constant 2015 US$),GDP.PCAP,1790.37375415648,2217.81728511053
+Solomon Islands,SLB,Life expectancy at birth (years),LIFE_EXPECT,67.225,70.173
+Solomon Islands,SLB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,12.8,8.4
+Somalia,SOM,Unemployment total (% of total labor force),UNEMPLOY,19.401,18.87
+Somalia,SOM,Consumer price index (2010 = 100),CPI,..,..
+Somalia,SOM,Death rate (per 1000 people),DEATH_RATE,15.778,11.444
+Somalia,SOM,GDP per capita (constant 2015 US$),GDP.PCAP,..,413.503861987876
+Somalia,SOM,Life expectancy at birth (years),LIFE_EXPECT,50.66,56.375
+Somalia,SOM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,44.7,37.8
+South Africa,ZAF,Unemployment total (% of total labor force),UNEMPLOY,20.266,24.22
+South Africa,ZAF,Consumer price index (2010 = 100),CPI,59.9007095733763,152.646239554318
+South Africa,ZAF,Death rate (per 1000 people),DEATH_RATE,10.174,8.765
+South Africa,ZAF,GDP per capita (constant 2015 US$),GDP.PCAP,4735.66553181957,6250.99754447319
+South Africa,ZAF,Life expectancy at birth (years),LIFE_EXPECT,58.47,65.674
+South Africa,ZAF,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,17.5,11.2
+South Sudan,SSD,Unemployment total (% of total labor force),UNEMPLOY,12.126,12.229
+South Sudan,SSD,Consumer price index (2010 = 100),CPI,..,8411.16962950086
+South Sudan,SSD,Death rate (per 1000 people),DEATH_RATE,18.587,10.584
+South Sudan,SSD,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+South Sudan,SSD,Life expectancy at birth (years),LIFE_EXPECT,46.028,55.95
+South Sudan,SSD,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,56,39.8
+Spain,ESP,Unemployment total (% of total labor force),UNEMPLOY,13.79,15.25
+Spain,ESP,Consumer price index (2010 = 100),CPI,75.9257644618479,110.190639172868
+Spain,ESP,Death rate (per 1000 people),DEATH_RATE,8.9,9.1
+Spain,ESP,GDP per capita (constant 2015 US$),GDP.PCAP,23937.9685518675,27739.8647682529
+Spain,ESP,Life expectancy at birth (years),LIFE_EXPECT,78.9658536585366,83.4317073170732
+Spain,ESP,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.8,1.9
+Sri Lanka,LKA,Unemployment total (% of total labor force),UNEMPLOY,7.74,4.32
+Sri Lanka,LKA,Consumer price index (2010 = 100),CPI,36.4800290177408,150.228239475663
+Sri Lanka,LKA,Death rate (per 1000 people),DEATH_RATE,8.101,7.037
+Sri Lanka,LKA,GDP per capita (constant 2015 US$),GDP.PCAP,2011.98047369139,4495.71046962675
+Sri Lanka,LKA,Life expectancy at birth (years),LIFE_EXPECT,70.355,75.748
+Sri Lanka,LKA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,9.8,4.3
+St. Kitts and Nevis,KNA,Unemployment total (% of total labor force),UNEMPLOY,..,..
+St. Kitts and Nevis,KNA,Consumer price index (2010 = 100),CPI,72.1100570323037,104.565438498638
+St. Kitts and Nevis,KNA,Death rate (per 1000 people),DEATH_RATE,9.249,9.83
+St. Kitts and Nevis,KNA,GDP per capita (constant 2015 US$),GDP.PCAP,13939.7562237797,21254.4815332817
+St. Kitts and Nevis,KNA,Life expectancy at birth (years),LIFE_EXPECT,69.781,71.467
+St. Kitts and Nevis,KNA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,16.6,10.7
+St. Lucia,LCA,Unemployment total (% of total labor force),UNEMPLOY,16.49,19.08
+St. Lucia,LCA,Consumer price index (2010 = 100),CPI,78.0264360467778,110.125632259346
+St. Lucia,LCA,Death rate (per 1000 people),DEATH_RATE,6.98,7.976
+St. Lucia,LCA,GDP per capita (constant 2015 US$),GDP.PCAP,9163.30090951686,11176.5467151245
+St. Lucia,LCA,Life expectancy at birth (years),LIFE_EXPECT,70.768,73.357
+St. Lucia,LCA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,11.6,12.4
+St. Martin (French part),MAF,Unemployment total (% of total labor force),UNEMPLOY,..,..
+St. Martin (French part),MAF,Consumer price index (2010 = 100),CPI,..,..
+St. Martin (French part),MAF,Death rate (per 1000 people),DEATH_RATE,3.63,4.176
+St. Martin (French part),MAF,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+St. Martin (French part),MAF,Life expectancy at birth (years),LIFE_EXPECT,76.663,80.614
+St. Martin (French part),MAF,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+St. Vincent and the Grenadines,VCT,Unemployment total (% of total labor force),UNEMPLOY,20.958,19.02
+St. Vincent and the Grenadines,VCT,Consumer price index (2010 = 100),CPI,74.1041164482331,109.665673618007
+St. Vincent and the Grenadines,VCT,Death rate (per 1000 people),DEATH_RATE,7.056,8.906
+St. Vincent and the Grenadines,VCT,GDP per capita (constant 2015 US$),GDP.PCAP,5056.01980221547,8152.37794078743
+St. Vincent and the Grenadines,VCT,Life expectancy at birth (years),LIFE_EXPECT,71.377,74.128
+St. Vincent and the Grenadines,VCT,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,13.2,9.4
+Sudan,SDN,Unemployment total (% of total labor force),UNEMPLOY,15.282,17.572
+Sudan,SDN,Consumer price index (2010 = 100),CPI,35.842947341087,890.228952120135
+Sudan,SDN,Death rate (per 1000 people),DEATH_RATE,9.699,6.647
+Sudan,SDN,GDP per capita (constant 2015 US$),GDP.PCAP,1906.38110351563,2051.97900390625
+Sudan,SDN,Life expectancy at birth (years),LIFE_EXPECT,58.319,65.681
+Sudan,SDN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,37.2,28.3
+Suriname,SUR,Unemployment total (% of total labor force),UNEMPLOY,12.741,7.932
+Suriname,SUR,Consumer price index (2010 = 100),CPI,28.9653887739275,..
+Suriname,SUR,Death rate (per 1000 people),DEATH_RATE,7.801,6.753
+Suriname,SUR,GDP per capita (constant 2015 US$),GDP.PCAP,6098.0637682041,8751.00444150801
+Suriname,SUR,Life expectancy at birth (years),LIFE_EXPECT,65.508,72.553
+Suriname,SUR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,17,11.7
+Sweden,SWE,Unemployment total (% of total labor force),UNEMPLOY,5.47,6.36
+Sweden,SWE,Consumer price index (2010 = 100),CPI,86.2262960544623,108.572129146727
+Sweden,SWE,Death rate (per 1000 people),DEATH_RATE,10.5,9.1
+Sweden,SWE,GDP per capita (constant 2015 US$),GDP.PCAP,41117.1524303504,52983.0068617482
+Sweden,SWE,Life expectancy at birth (years),LIFE_EXPECT,79.6439024390244,82.5585365853659
+Sweden,SWE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,2.3,1.5
+Switzerland,CHE,Unemployment total (% of total labor force),UNEMPLOY,2.66,4.71
+Switzerland,CHE,Consumer price index (2010 = 100),CPI,91.7494743368115,99.186960600683
+Switzerland,CHE,Death rate (per 1000 people),DEATH_RATE,8.7,7.9
+Switzerland,CHE,GDP per capita (constant 2015 US$),GDP.PCAP,73749.9388039148,86756.6021294513
+Switzerland,CHE,Life expectancy at birth (years),LIFE_EXPECT,79.6804878048781,83.7536585365854
+Switzerland,CHE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.5,2.8
+Syrian Arab Republic,SYR,Unemployment total (% of total labor force),UNEMPLOY,9.602,8.746
+Syrian Arab Republic,SYR,Consumer price index (2010 = 100),CPI,57.7069747014309,..
+Syrian Arab Republic,SYR,Death rate (per 1000 people),DEATH_RATE,4.413,5.554
+Syrian Arab Republic,SYR,GDP per capita (constant 2015 US$),GDP.PCAP,1273.78379406541,802.505062685495
+Syrian Arab Republic,SYR,Life expectancy at birth (years),LIFE_EXPECT,70.764,70.145
+Syrian Arab Republic,SYR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,12.1,11.1
+Tajikistan,TJK,Unemployment total (% of total labor force),UNEMPLOY,15.134,7.001
+Tajikistan,TJK,Consumer price index (2010 = 100),CPI,28.3487683525653,..
+Tajikistan,TJK,Death rate (per 1000 people),DEATH_RATE,7.54,5.014
+Tajikistan,TJK,GDP per capita (constant 2015 US$),GDP.PCAP,430.341003664947,1116.29308858199
+Tajikistan,TJK,Life expectancy at birth (years),LIFE_EXPECT,63.26,70.353
+Tajikistan,TJK,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,28.4,14.9
+Tanzania,TZA,Unemployment total (% of total labor force),UNEMPLOY,3.072,2.203
+Tanzania,TZA,Consumer price index (2010 = 100),CPI,51.7077252594847,181.154460150602
+Tanzania,TZA,Death rate (per 1000 people),DEATH_RATE,13.251,6.177
+Tanzania,TZA,GDP per capita (constant 2015 US$),GDP.PCAP,551.656616210938,1011.74475097656
+Tanzania,TZA,Life expectancy at birth (years),LIFE_EXPECT,52.362,66.535
+Tanzania,TZA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,33.7,21.3
+Thailand,THA,Unemployment total (% of total labor force),UNEMPLOY,2.39,0.77
+Thailand,THA,Consumer price index (2010 = 100),CPI,77.3524002473063,112.470786778062
+Thailand,THA,Death rate (per 1000 people),DEATH_RATE,6.043,7.027
+Thailand,THA,GDP per capita (constant 2015 US$),GDP.PCAP,3511.44039480553,6336.2397390944
+Thailand,THA,Life expectancy at birth (years),LIFE_EXPECT,72.316,78.662
+Thailand,THA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,12.4,5.4
+Timor-Leste,TLS,Unemployment total (% of total labor force),UNEMPLOY,3.448,4.718
+Timor-Leste,TLS,Consumer price index (2010 = 100),CPI,..,144.832175882741
+Timor-Leste,TLS,Death rate (per 1000 people),DEATH_RATE,10.187,7.012
+Timor-Leste,TLS,GDP per capita (constant 2015 US$),GDP.PCAP,948.028311597044,1257.64677949344
+Timor-Leste,TLS,Life expectancy at birth (years),LIFE_EXPECT,58.568,68.017
+Timor-Leste,TLS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,39.1,23.6
+Togo,TGO,Unemployment total (% of total labor force),UNEMPLOY,4.057,3.723
+Togo,TGO,Consumer price index (2010 = 100),CPI,74.4945328767797,112.537690648103
+Togo,TGO,Death rate (per 1000 people),DEATH_RATE,11.898,8.766
+Togo,TGO,GDP per capita (constant 2015 US$),GDP.PCAP,675.464958056948,817.681799174148
+Togo,TGO,Life expectancy at birth (years),LIFE_EXPECT,54.742,60.244
+Togo,TGO,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,36.9,25.5
+Tonga,TON,Unemployment total (% of total labor force),UNEMPLOY,4.103,2.25
+Tonga,TON,Consumer price index (2010 = 100),CPI,47.6988126815669,127.27617144704
+Tonga,TON,Death rate (per 1000 people),DEATH_RATE,6.759,6.888
+Tonga,TON,GDP per capita (constant 2015 US$),GDP.PCAP,3506.2655706646,4587.27938715928
+Tonga,TON,Life expectancy at birth (years),LIFE_EXPECT,68.978,70.779
+Tonga,TON,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,7.2,5.2
+Trinidad and Tobago,TTO,Unemployment total (% of total labor force),UNEMPLOY,12.1,3.405
+Trinidad and Tobago,TTO,Consumer price index (2010 = 100),CPI,51.0526154009408,141.753275747519
+Trinidad and Tobago,TTO,Death rate (per 1000 people),DEATH_RATE,6.98,7.783
+Trinidad and Tobago,TTO,GDP per capita (constant 2015 US$),GDP.PCAP,9965.63596925062,15716.9074799115
+Trinidad and Tobago,TTO,Life expectancy at birth (years),LIFE_EXPECT,69.102,73.802
+Trinidad and Tobago,TTO,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,18.1,11.4
+Tunisia,TUN,Unemployment total (% of total labor force),UNEMPLOY,14.94,15.46
+Tunisia,TUN,Consumer price index (2010 = 100),CPI,73.9886870868188,145.544662556429
+Tunisia,TUN,Death rate (per 1000 people),DEATH_RATE,4.773,6.04
+Tunisia,TUN,GDP per capita (constant 2015 US$),GDP.PCAP,2827.37880168248,4070.1457823978
+Tunisia,TUN,Life expectancy at birth (years),LIFE_EXPECT,73.69,75.95
+Tunisia,TUN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,18.4,12.1
+Turkiye,TUR,Unemployment total (% of total labor force),UNEMPLOY,6.5,10.89
+Turkiye,TUR,Consumer price index (2010 = 100),CPI,20.5948262331839,203.545403587444
+Turkiye,TUR,Death rate (per 1000 people),DEATH_RATE,5.616,5.065
+Turkiye,TUR,GDP per capita (constant 2015 US$),GDP.PCAP,6454.57288175521,11938.7454433443
+Turkiye,TUR,Life expectancy at birth (years),LIFE_EXPECT,71.861,77.563
+Turkiye,TUR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,18.8,5.6
+Turkmenistan,TKM,Unemployment total (% of total labor force),UNEMPLOY,11.513,4.196
+Turkmenistan,TKM,Consumer price index (2010 = 100),CPI,..,..
+Turkmenistan,TKM,Death rate (per 1000 people),DEATH_RATE,6.949,6.639
+Turkmenistan,TKM,GDP per capita (constant 2015 US$),GDP.PCAP,2261.69986509521,7089.94180488049
+Turkmenistan,TKM,Life expectancy at birth (years),LIFE_EXPECT,65.026,68.796
+Turkmenistan,TKM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,30,24.2
+Turks and Caicos Islands,TCA,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Turks and Caicos Islands,TCA,Consumer price index (2010 = 100),CPI,..,..
+Turks and Caicos Islands,TCA,Death rate (per 1000 people),DEATH_RATE,4.463,7.651
+Turks and Caicos Islands,TCA,GDP per capita (constant 2015 US$),GDP.PCAP,..,25080.1644890531
+Turks and Caicos Islands,TCA,Life expectancy at birth (years),LIFE_EXPECT,73.575,76.443
+Turks and Caicos Islands,TCA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,4.6,2.6
+Tuvalu,TUV,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Tuvalu,TUV,Consumer price index (2010 = 100),CPI,..,..
+Tuvalu,TUV,Death rate (per 1000 people),DEATH_RATE,10.043,10.107
+Tuvalu,TUV,GDP per capita (constant 2015 US$),GDP.PCAP,3026.73969510209,3718.43211977116
+Tuvalu,TUV,Life expectancy at birth (years),LIFE_EXPECT,63.499,64.212
+Tuvalu,TUV,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,24.3,10.7
+Uganda,UGA,Unemployment total (% of total labor force),UNEMPLOY,3.552,3.571
+Uganda,UGA,Consumer price index (2010 = 100),CPI,53.6994387766516,171.141727345227
+Uganda,UGA,Death rate (per 1000 people),DEATH_RATE,15.297,5.939
+Uganda,UGA,GDP per capita (constant 2015 US$),GDP.PCAP,508.761992083361,896.162531978557
+Uganda,UGA,Life expectancy at birth (years),LIFE_EXPECT,48.342,62.714
+Uganda,UGA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,32.7,20.5
+Ukraine,UKR,Unemployment total (% of total labor force),UNEMPLOY,11.71,8.8
+Ukraine,UKR,Consumer price index (2010 = 100),CPI,34.8449503844237,261.068834313386
+Ukraine,UKR,Death rate (per 1000 people),DEATH_RATE,15.4,14.8
+Ukraine,UKR,GDP per capita (constant 2015 US$),GDP.PCAP,1420.11669921875,2336.9765625
+Ukraine,UKR,Life expectancy at birth (years),LIFE_EXPECT,67.6756097560976,71.5826829268293
+Ukraine,UKR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,11,5.1
+United Arab Emirates,ARE,Unemployment total (% of total labor force),UNEMPLOY,2.25,2.24
+United Arab Emirates,ARE,Consumer price index (2010 = 100),CPI,..,116.779772707568
+United Arab Emirates,ARE,Death rate (per 1000 people),DEATH_RATE,2.107,1.324
+United Arab Emirates,ARE,GDP per capita (constant 2015 US$),GDP.PCAP,59067.6034711527,43644.1470474986
+United Arab Emirates,ARE,Life expectancy at birth (years),LIFE_EXPECT,74.38,79.627
+United Arab Emirates,ARE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,5.9,3.8
+United Kingdom,GBR,Unemployment total (% of total labor force),UNEMPLOY,5.56,4
+United Kingdom,GBR,Consumer price index (2010 = 100),CPI,81.4684668022933,117.579064176068
+United Kingdom,GBR,Death rate (per 1000 people),DEATH_RATE,10.3,9.2
+United Kingdom,GBR,GDP per capita (constant 2015 US$),GDP.PCAP,39187.5830817436,47006.1429267683
+United Kingdom,GBR,Life expectancy at birth (years),LIFE_EXPECT,77.7414634146342,81.2560975609756
+United Kingdom,GBR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.8,2.8
+United States,USA,Unemployment total (% of total labor force),UNEMPLOY,3.99,3.9
+United States,USA,Consumer price index (2010 = 100),CPI,78.9707207568716,115.157303224791
+United States,USA,Death rate (per 1000 people),DEATH_RATE,8.5,8.678
+United States,USA,GDP per capita (constant 2015 US$),GDP.PCAP,48746.0409600767,59607.3936602496
+United States,USA,Life expectancy at birth (years),LIFE_EXPECT,76.6365853658537,78.6390243902439
+United States,USA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,4.6,3.7
+Uruguay,URY,Unemployment total (% of total labor force),UNEMPLOY,12.63,8.34
+Uruguay,URY,Consumer price index (2010 = 100),CPI,43.4709671460666,188.096257600411
+Uruguay,URY,Death rate (per 1000 people),DEATH_RATE,9.124,9.863
+Uruguay,URY,GDP per capita (constant 2015 US$),GDP.PCAP,11008.6382918218,17440.3821517128
+Uruguay,URY,Life expectancy at birth (years),LIFE_EXPECT,75.025,77.611
+Uruguay,URY,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,8.5,4.1
+Uzbekistan,UZB,Unemployment total (% of total labor force),UNEMPLOY,12.211,5.856
+Uzbekistan,UZB,Consumer price index (2010 = 100),CPI,..,247.768363601715
+Uzbekistan,UZB,Death rate (per 1000 people),DEATH_RATE,5.5,4.7
+Uzbekistan,UZB,GDP per capita (constant 2015 US$),GDP.PCAP,1276.76030789471,3062.48622241035
+Uzbekistan,UZB,Life expectancy at birth (years),LIFE_EXPECT,65.724,71.149
+Uzbekistan,UZB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,27.8,8.8
+Vanuatu,VUT,Unemployment total (% of total labor force),UNEMPLOY,1.708,1.784
+Vanuatu,VUT,Consumer price index (2010 = 100),CPI,75.1463889778055,113.980923247394
+Vanuatu,VUT,Death rate (per 1000 people),DEATH_RATE,5.512,5.739
+Vanuatu,VUT,GDP per capita (constant 2015 US$),GDP.PCAP,2731.60668591349,2815.5871524067
+Vanuatu,VUT,Life expectancy at birth (years),LIFE_EXPECT,68.966,69.795
+Vanuatu,VUT,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,12.2,10.8
+Venezuela,VEN,Unemployment total (% of total labor force),UNEMPLOY,13.99,5.02
+Venezuela,VEN,Consumer price index (2010 = 100),CPI,..,..
+Venezuela,VEN,Death rate (per 1000 people),DEATH_RATE,4.964,6.864
+Venezuela,VEN,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+Venezuela,VEN,Life expectancy at birth (years),LIFE_EXPECT,72.478,71.979
+Venezuela,VEN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,10.9,15
+Vietnam,VNM,Unemployment total (% of total labor force),UNEMPLOY,2.26,1.16
+Vietnam,VNM,Consumer price index (2010 = 100),CPI,48.0884087276966,159.069641224583
+Vietnam,VNM,Death rate (per 1000 people),DEATH_RATE,5.755,6.663
+Vietnam,VNM,GDP per capita (constant 2015 US$),GDP.PCAP,1183.85409718642,3090.77224054251
+Vietnam,VNM,Life expectancy at birth (years),LIFE_EXPECT,72.462,73.976
+Vietnam,VNM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,15.1,10.9
+Virgin Islands (U.S.),VIR,Unemployment total (% of total labor force),UNEMPLOY,10.5,12.245
+Virgin Islands (U.S.),VIR,Consumer price index (2010 = 100),CPI,..,..
+Virgin Islands (U.S.),VIR,Death rate (per 1000 people),DEATH_RATE,6,7.9
+Virgin Islands (U.S.),VIR,GDP per capita (constant 2015 US$),GDP.PCAP,..,35183.2357524821
+Virgin Islands (U.S.),VIR,Life expectancy at birth (years),LIFE_EXPECT,76.619512195122,79.5195121951219
+Virgin Islands (U.S.),VIR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+West Bank and Gaza,PSE,Unemployment total (% of total labor force),UNEMPLOY,10.63,26.26
+West Bank and Gaza,PSE,Consumer price index (2010 = 100),CPI,67.3659536273786,110.765815014162
+West Bank and Gaza,PSE,Death rate (per 1000 people),DEATH_RATE,4.5,3.317
+West Bank and Gaza,PSE,GDP per capita (constant 2015 US$),GDP.PCAP,2436.00300874047,3417.79440837962
+West Bank and Gaza,PSE,Life expectancy at birth (years),LIFE_EXPECT,70.388,74.793
+West Bank and Gaza,PSE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,17.1,10.3
+Yemen,YEM,Unemployment total (% of total labor force),UNEMPLOY,11.558,13.076
+Yemen,YEM,Consumer price index (2010 = 100),CPI,34.2391731453715,..
+Yemen,YEM,Death rate (per 1000 people),DEATH_RATE,7.94,6.629
+Yemen,YEM,GDP per capita (constant 2015 US$),GDP.PCAP,2227.6509032416,1194.82055900925
+Yemen,YEM,Life expectancy at birth (years),LIFE_EXPECT,62.588,64.575
+Yemen,YEM,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,37.2,28.3
+Zambia,ZMB,Unemployment total (% of total labor force),UNEMPLOY,12.93,5.03
+Zambia,ZMB,Consumer price index (2010 = 100),CPI,23.8282878664427,194.510438332948
+Zambia,ZMB,Death rate (per 1000 people),DEATH_RATE,16.876,6.748
+Zambia,ZMB,GDP per capita (constant 2015 US$),GDP.PCAP,814.772965457523,1331.44924435525
+Zambia,ZMB,Life expectancy at birth (years),LIFE_EXPECT,45.231,62.342
+Zambia,ZMB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,35.3,25.7
+Zimbabwe,ZWE,Unemployment total (% of total labor force),UNEMPLOY,5.688,6.784
+Zimbabwe,ZWE,Consumer price index (2010 = 100),CPI,..,116.712210556594
+Zimbabwe,ZWE,Death rate (per 1000 people),DEATH_RATE,16.801,7.972
+Zimbabwe,ZWE,GDP per capita (constant 2015 US$),GDP.PCAP,1676.51546030826,1462.59027890974
+Zimbabwe,ZWE,Life expectancy at birth (years),LIFE_EXPECT,44.686,61.414
+Zimbabwe,ZWE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,27.6,26.6
+Africa Eastern and Southern,AFE,Unemployment total (% of total labor force),UNEMPLOY,6.93953643462879,6.91304612233971
+Africa Eastern and Southern,AFE,Consumer price index (2010 = 100),CPI,..,..
+Africa Eastern and Southern,AFE,Death rate (per 1000 people),DEATH_RATE,13.7756980933728,7.58811041050679
+Africa Eastern and Southern,AFE,GDP per capita (constant 2015 US$),GDP.PCAP,1269.34174240758,1533.74425509265
+Africa Eastern and Southern,AFE,Life expectancy at birth (years),LIFE_EXPECT,51.9644813247726,63.3658626111831
+Africa Eastern and Southern,AFE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,37.9601637494138,25.2704152491122
+Africa Western and Central,AFW,Unemployment total (% of total labor force),UNEMPLOY,4.66642259479649,4.20159867370182
+Africa Western and Central,AFW,Consumer price index (2010 = 100),CPI,..,..
+Africa Western and Central,AFW,Death rate (per 1000 people),DEATH_RATE,15.562004323077,10.7118398833043
+Africa Western and Central,AFW,GDP per capita (constant 2015 US$),GDP.PCAP,1194.716986105,1828.91323261968
+Africa Western and Central,AFW,Life expectancy at birth (years),LIFE_EXPECT,50.221953875359,57.1891392680655
+Africa Western and Central,AFW,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,43.9736698507047,32.9398386899817
+Arab World,ARB,Unemployment total (% of total labor force),UNEMPLOY,12.447845864693,10.5833398623519
+Arab World,ARB,Consumer price index (2010 = 100),CPI,..,..
+Arab World,ARB,Death rate (per 1000 people),DEATH_RATE,6.32506372364943,5.22699181399284
+Arab World,ARB,GDP per capita (constant 2015 US$),GDP.PCAP,4948.11592002694,6349.07297121612
+Arab World,ARB,Life expectancy at birth (years),LIFE_EXPECT,67.2973312552373,71.6330166549463
+Arab World,ARB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,25.4310798780091,17.2287551396376
+Caribbean small states,CSS,Unemployment total (% of total labor force),UNEMPLOY,9.69603707156126,7.13606012906211
+Caribbean small states,CSS,Consumer price index (2010 = 100),CPI,..,..
+Caribbean small states,CSS,Death rate (per 1000 people),DEATH_RATE,7.08757362672723,7.35014260595418
+Caribbean small states,CSS,GDP per capita (constant 2015 US$),GDP.PCAP,8066.67841260127,10127.449059356
+Caribbean small states,CSS,Life expectancy at birth (years),LIFE_EXPECT,69.6093331607451,72.5836868696142
+Caribbean small states,CSS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,17.4208167369194,12.0897370090547
+Central Europe and the Baltics,CEB,Unemployment total (% of total labor force),UNEMPLOY,12.4415131150552,4.31646915770219
+Central Europe and the Baltics,CEB,Consumer price index (2010 = 100),CPI,..,..
+Central Europe and the Baltics,CEB,Death rate (per 1000 people),DEATH_RATE,11.0069233625195,12.1174003213682
+Central Europe and the Baltics,CEB,GDP per capita (constant 2015 US$),GDP.PCAP,7414.0211904658,14294.7382209244
+Central Europe and the Baltics,CEB,Life expectancy at birth (years),LIFE_EXPECT,72.719724722779,76.9768226818402
+Central Europe and the Baltics,CEB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,6.56290536784529,2.72352372301318
+Early-demographic dividend,EAR,Unemployment total (% of total labor force),UNEMPLOY,7.11164062781596,6.6409754389195
+Early-demographic dividend,EAR,Consumer price index (2010 = 100),CPI,..,..
+Early-demographic dividend,EAR,Death rate (per 1000 people),DEATH_RATE,7.97685475619772,6.44650507605016
+Early-demographic dividend,EAR,GDP per capita (constant 2015 US$),GDP.PCAP,2151.53870288223,3496.21852059784
+Early-demographic dividend,EAR,Life expectancy at birth (years),LIFE_EXPECT,64.4992570826455,70.7977056572048
+Early-demographic dividend,EAR,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,36.8338701855983,20.6197145975528
+East Asia & Pacific,EAS,Unemployment total (% of total labor force),UNEMPLOY,3.53936279061446,3.75171380308931
+East Asia & Pacific,EAS,Consumer price index (2010 = 100),CPI,..,..
+East Asia & Pacific,EAS,Death rate (per 1000 people),DEATH_RATE,6.65323421043453,7.22242942226568
+East Asia & Pacific,EAS,GDP per capita (constant 2015 US$),GDP.PCAP,5015.23039896908,10822.2405603135
+East Asia & Pacific,EAS,Life expectancy at birth (years),LIFE_EXPECT,71.5525698270665,76.5941727123573
+East Asia & Pacific,EAS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,20,7.5
+East Asia & Pacific (excluding high income),EAP,Unemployment total (% of total labor force),UNEMPLOY,3.40989658117218,3.81023505757628
+East Asia & Pacific (excluding high income),EAP,Consumer price index (2010 = 100),CPI,..,..
+East Asia & Pacific (excluding high income),EAP,Death rate (per 1000 people),DEATH_RATE,6.64134846311658,7.05088778364002
+East Asia & Pacific (excluding high income),EAP,GDP per capita (constant 2015 US$),GDP.PCAP,2104.22029297494,7708.78065489073
+East Asia & Pacific (excluding high income),EAP,Life expectancy at birth (years),LIFE_EXPECT,70.5648357047778,75.801433724838
+East Asia & Pacific (excluding high income),EAP,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,21.3060171759095,7.92823293675833
+East Asia & Pacific (IDA & IBRD countries),TEA,Unemployment total (% of total labor force),UNEMPLOY,3.41519233351655,3.82427981439246
+East Asia & Pacific (IDA & IBRD countries),TEA,Consumer price index (2010 = 100),CPI,..,..
+East Asia & Pacific (IDA & IBRD countries),TEA,Death rate (per 1000 people),DEATH_RATE,6.5876622294562,7.03018867008684
+East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (constant 2015 US$),GDP.PCAP,2128.96359949713,7794.51528256629
+East Asia & Pacific (IDA & IBRD countries),TEA,Life expectancy at birth (years),LIFE_EXPECT,70.6924622205943,75.8356932818659
+East Asia & Pacific (IDA & IBRD countries),TEA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,21.2204831425252,7.9057785305355
+Euro area,EMU,Unemployment total (% of total labor force),UNEMPLOY,9.42774080158617,8.15687280052436
+Euro area,EMU,Consumer price index (2010 = 100),CPI,..,..
+Euro area,EMU,Death rate (per 1000 people),DEATH_RATE,9.60446886901185,10.1364251344535
+Euro area,EMU,GDP per capita (constant 2015 US$),GDP.PCAP,31005.4881427163,36315.0879098294
+Euro area,EMU,Life expectancy at birth (years),LIFE_EXPECT,78.2708354495098,82.0515528107847
+Euro area,EMU,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.15676224354457,2.26164770678357
+Europe & Central Asia,ECS,Unemployment total (% of total labor force),UNEMPLOY,9.79129967376996,6.86932128463727
+Europe & Central Asia,ECS,Consumer price index (2010 = 100),CPI,..,..
+Europe & Central Asia,ECS,Death rate (per 1000 people),DEATH_RATE,10.6922658748863,10.0172140452726
+Europe & Central Asia,ECS,GDP per capita (constant 2015 US$),GDP.PCAP,18454.162421431,23892.1614657009
+Europe & Central Asia,ECS,Life expectancy at birth (years),LIFE_EXPECT,73.1320898765724,77.9114545780748
+Europe & Central Asia,ECS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,10.4,4.5
+Europe & Central Asia (excluding high income),ECA,Unemployment total (% of total labor force),UNEMPLOY,10.9031240223943,7.02823551267709
+Europe & Central Asia (excluding high income),ECA,Consumer price index (2010 = 100),CPI,..,..
+Europe & Central Asia (excluding high income),ECA,Death rate (per 1000 people),DEATH_RATE,11.7446039704511,9.77399973351623
+Europe & Central Asia (excluding high income),ECA,GDP per capita (constant 2015 US$),GDP.PCAP,4084.46012302749,7993.13089675169
+Europe & Central Asia (excluding high income),ECA,Life expectancy at birth (years),LIFE_EXPECT,67.6033710320653,73.609526510201
+Europe & Central Asia (excluding high income),ECA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,17.2251905327102,6.36868446561628
+Europe & Central Asia (IDA & IBRD countries),TEC,Unemployment total (% of total labor force),UNEMPLOY,11.1987705446523,6.6445587160063
+Europe & Central Asia (IDA & IBRD countries),TEC,Consumer price index (2010 = 100),CPI,..,..
+Europe & Central Asia (IDA & IBRD countries),TEC,Death rate (per 1000 people),DEATH_RATE,11.5330078422412,10.0569453787279
+Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (constant 2015 US$),GDP.PCAP,4444.77536809384,8691.6473683529
+Europe & Central Asia (IDA & IBRD countries),TEC,Life expectancy at birth (years),LIFE_EXPECT,68.379542167384,74.0532184477118
+Europe & Central Asia (IDA & IBRD countries),TEC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,16.0887922009106,6.02692410914298
+European Union,EUU,Unemployment total (% of total labor force),UNEMPLOY,9.83065481419596,7.25380318803954
+European Union,EUU,Consumer price index (2010 = 100),CPI,..,..
+European Union,EUU,Death rate (per 1000 people),DEATH_RATE,9.94636783647683,10.5107373571832
+European Union,EUU,GDP per capita (constant 2015 US$),GDP.PCAP,26230.6568573323,32454.00578973
+European Union,EUU,Life expectancy at birth (years),LIFE_EXPECT,77.0753168840645,81.0287289990803
+European Union,EUU,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.89412160970597,2.36289853331875
+Fragile and conflict affected situations,FCS,Unemployment total (% of total labor force),UNEMPLOY,5.95766286586729,5.91816489249771
+Fragile and conflict affected situations,FCS,Consumer price index (2010 = 100),CPI,..,..
+Fragile and conflict affected situations,FCS,Death rate (per 1000 people),DEATH_RATE,13.3073689178387,9.19991091413219
+Fragile and conflict affected situations,FCS,GDP per capita (constant 2015 US$),GDP.PCAP,1436.80777287516,1907.41198639925
+Fragile and conflict affected situations,FCS,Life expectancy at birth (years),LIFE_EXPECT,55.5031693998091,61.9692747415634
+Fragile and conflict affected situations,FCS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,40.58162849322,29.6467237182544
+Heavily indebted poor countries (HIPC),HPC,Unemployment total (% of total labor force),UNEMPLOY,5.14817259434089,4.6191856502154
+Heavily indebted poor countries (HIPC),HPC,Consumer price index (2010 = 100),CPI,..,..
+Heavily indebted poor countries (HIPC),HPC,Death rate (per 1000 people),DEATH_RATE,13.7097286276419,7.6739980000767
+Heavily indebted poor countries (HIPC),HPC,GDP per capita (constant 2015 US$),GDP.PCAP,733.326199098063,1001.75403599389
+Heavily indebted poor countries (HIPC),HPC,Life expectancy at birth (years),LIFE_EXPECT,52.6617541209546,62.9475759474084
+Heavily indebted poor countries (HIPC),HPC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,40.9683962794906,27.5945632886315
+High income,HIC,Unemployment total (% of total labor force),UNEMPLOY,6.53668228690868,5.08176442820026
+High income,HIC,Consumer price index (2010 = 100),CPI,..,..
+High income,HIC,Death rate (per 1000 people),DEATH_RATE,8.49047741265434,8.92074776971779
+High income,HIC,GDP per capita (constant 2015 US$),GDP.PCAP,33596.6711440286,41837.3213740411
+High income,HIC,Life expectancy at birth (years),LIFE_EXPECT,77.4502088963391,80.7690470451794
+High income,HIC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,4.4,2.9
+IBRD only,IBD,Unemployment total (% of total labor force),UNEMPLOY,6.45059196070703,6.18185700089575
+IBRD only,IBD,Consumer price index (2010 = 100),CPI,..,..
+IBRD only,IBD,Death rate (per 1000 people),DEATH_RATE,7.61217188329024,7.03515863339411
+IBRD only,IBD,GDP per capita (constant 2015 US$),GDP.PCAP,2720.38904816196,6208.36254369171
+IBRD only,IBD,Life expectancy at birth (years),LIFE_EXPECT,68.2416312578469,73.9337095298769
+IBRD only,IBD,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,28.592959969154,13.2435171937291
+IDA & IBRD total,IBT,Unemployment total (% of total labor force),UNEMPLOY,6.08928547016124,5.84317952897319
+IDA & IBRD total,IBT,Consumer price index (2010 = 100),CPI,..,..
+IDA & IBRD total,IBT,Death rate (per 1000 people),DEATH_RATE,8.49931545305795,7.24861896129745
+IDA & IBRD total,IBT,GDP per capita (constant 2015 US$),GDP.PCAP,2325.37253916939,4965.90306618805
+IDA & IBRD total,IBT,Life expectancy at birth (years),LIFE_EXPECT,65.7045768390257,71.3224578211165
+IDA & IBRD total,IBT,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,33.401863482439,19.8356541934089
+IDA blend,IDB,Unemployment total (% of total labor force),UNEMPLOY,3.70588068052124,4.76059518267675
+IDA blend,IDB,Consumer price index (2010 = 100),CPI,..,..
+IDA blend,IDB,Death rate (per 1000 people),DEATH_RATE,12.0391612904843,9.12249640642157
+IDA blend,IDB,GDP per capita (constant 2015 US$),GDP.PCAP,1232.13057563657,1968.79308438126
+IDA blend,IDB,Life expectancy at birth (years),LIFE_EXPECT,55.7800007528308,61.0773195307108
+IDA blend,IDB,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,46.6270216696921,34.7747415496881
+IDA only,IDX,Unemployment total (% of total labor force),UNEMPLOY,4.77555730580591,4.62565866487055
+IDA only,IDX,Consumer price index (2010 = 100),CPI,..,..
+IDA only,IDX,Death rate (per 1000 people),DEATH_RATE,11.4862388345741,7.22722871617345
+IDA only,IDX,GDP per capita (constant 2015 US$),GDP.PCAP,754.355856596331,1154.72769755617
+IDA only,IDX,Life expectancy at birth (years),LIFE_EXPECT,57.06333768301,65.277193059858
+IDA only,IDX,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,40.3212254834418,26.1559329917312
+IDA total,IDA,Unemployment total (% of total labor force),UNEMPLOY,4.44653046770772,4.66722397652636
+IDA total,IDA,Consumer price index (2010 = 100),CPI,..,..
+IDA total,IDA,Death rate (per 1000 people),DEATH_RATE,11.6704120838541,7.85685538432601
+IDA total,IDA,GDP per capita (constant 2015 US$),GDP.PCAP,913.10747293053,1425.16826898696
+IDA total,IDA,Life expectancy at birth (years),LIFE_EXPECT,56.6358702690433,63.8819535428096
+IDA total,IDA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,42.432207390657,29.0890411481428
+Late-demographic dividend,LTE,Unemployment total (% of total labor force),UNEMPLOY,5.23484939263118,5.05326213242699
+Late-demographic dividend,LTE,Consumer price index (2010 = 100),CPI,..,..
+Late-demographic dividend,LTE,Death rate (per 1000 people),DEATH_RATE,7.23947992186391,7.38604020907561
+Late-demographic dividend,LTE,GDP per capita (constant 2015 US$),GDP.PCAP,3428.84071079728,9357.99358529759
+Late-demographic dividend,LTE,Life expectancy at birth (years),LIFE_EXPECT,71.078675285985,76.7706341213864
+Late-demographic dividend,LTE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,18.8151314009311,5.55036832398573
+Latin America & Caribbean,LCN,Unemployment total (% of total labor force),UNEMPLOY,9.33272047940164,7.93816372291328
+Latin America & Caribbean,LCN,Consumer price index (2010 = 100),CPI,..,..
+Latin America & Caribbean,LCN,Death rate (per 1000 people),DEATH_RATE,6.06438789007312,6.52736731708116
+Latin America & Caribbean,LCN,GDP per capita (constant 2015 US$),GDP.PCAP,6744.91405855591,8688.87808577099
+Latin America & Caribbean,LCN,Life expectancy at birth (years),LIFE_EXPECT,71.2284362721063,74.8514987823088
+Latin America & Caribbean,LCN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,16.3,9.8
+Latin America & Caribbean (excluding high income),LAC,Unemployment total (% of total labor force),UNEMPLOY,9.03522869791849,8.10829886081119
+Latin America & Caribbean (excluding high income),LAC,Consumer price index (2010 = 100),CPI,..,..
+Latin America & Caribbean (excluding high income),LAC,Death rate (per 1000 people),DEATH_RATE,6.12651992428601,6.48668616965408
+Latin America & Caribbean (excluding high income),LAC,GDP per capita (constant 2015 US$),GDP.PCAP,6432.936422267,8236.85333836874
+Latin America & Caribbean (excluding high income),LAC,Life expectancy at birth (years),LIFE_EXPECT,70.9065124450419,74.7719810774371
+Latin America & Caribbean (excluding high income),LAC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,16.858960067927,9.58565915339696
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Unemployment total (% of total labor force),UNEMPLOY,9.41206608306483,8.04245728896648
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Consumer price index (2010 = 100),CPI,..,..
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Death rate (per 1000 people),DEATH_RATE,6.02625987180721,6.45276270165782
+Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (constant 2015 US$),GDP.PCAP,6601.75395901875,8548.87021611379
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Life expectancy at birth (years),LIFE_EXPECT,71.0789491788505,74.7764883913037
+Latin America & the Caribbean (IDA & IBRD countries),TLA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,16.434641320396,9.84458113825536
+Least developed countries: UN classification,LDC,Unemployment total (% of total labor force),UNEMPLOY,4.32431789031419,4.79144258938119
+Least developed countries: UN classification,LDC,Consumer price index (2010 = 100),CPI,..,..
+Least developed countries: UN classification,LDC,Death rate (per 1000 people),DEATH_RATE,12.1089495028468,7.32181703120605
+Least developed countries: UN classification,LDC,GDP per capita (constant 2015 US$),GDP.PCAP,673.759769904757,1056.69424997838
+Least developed countries: UN classification,LDC,Life expectancy at birth (years),LIFE_EXPECT,55.7928018136001,64.8184998502238
+Least developed countries: UN classification,LDC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,42.0867426405557,26.7999423022078
+Low & middle income,LMY,Unemployment total (% of total labor force),UNEMPLOY,5.91988582098547,5.84180065203162
+Low & middle income,LMY,Consumer price index (2010 = 100),CPI,..,..
+Low & middle income,LMY,Death rate (per 1000 people),DEATH_RATE,8.51146284663746,7.21602354145364
+Low & middle income,LMY,GDP per capita (constant 2015 US$),GDP.PCAP,2224.6038352846,4807.39144283893
+Low & middle income,LMY,Life expectancy at birth (years),LIFE_EXPECT,65.5362074172575,71.2520319024901
+Low & middle income,LMY,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,33.6643675428703,19.9277631625814
+Low income,LIC,Unemployment total (% of total labor force),UNEMPLOY,4.99480126149598,5.10737709566905
+Low income,LIC,Consumer price index (2010 = 100),CPI,..,..
+Low income,LIC,Death rate (per 1000 people),DEATH_RATE,13.6269629815542,7.82072738092014
+Low income,LIC,GDP per capita (constant 2015 US$),GDP.PCAP,673.625578833946,770.556414704226
+Low income,LIC,Life expectancy at birth (years),LIFE_EXPECT,53.2148124943112,62.9952039179532
+Low income,LIC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,41.7,28.3
+Lower middle income,LMC,Unemployment total (% of total labor force),UNEMPLOY,6.68201444516481,6.22368057875735
+Lower middle income,LMC,Consumer price index (2010 = 100),CPI,..,..
+Lower middle income,LMC,Death rate (per 1000 people),DEATH_RATE,9.08080715281273,7.03706261557393
+Lower middle income,LMC,GDP per capita (constant 2015 US$),GDP.PCAP,1140.77353645153,2195.06052790476
+Lower middle income,LMC,Life expectancy at birth (years),LIFE_EXPECT,62.4396804277818,68.9324883068667
+Lower middle income,LMC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,39.1,23.3
+Middle East & North Africa,MEA,Unemployment total (% of total labor force),UNEMPLOY,11.923936431352,9.9990638706959
+Middle East & North Africa,MEA,Consumer price index (2010 = 100),CPI,..,..
+Middle East & North Africa,MEA,Death rate (per 1000 people),DEATH_RATE,5.5187844601639,4.77304637901421
+Middle East & North Africa,MEA,GDP per capita (constant 2015 US$),GDP.PCAP,5608.75321216353,7417.11386031603
+Middle East & North Africa,MEA,Life expectancy at birth (years),LIFE_EXPECT,69.2821780682104,73.8115171255443
+Middle East & North Africa,MEA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,21.5,12.6
+Middle East & North Africa (excluding high income),MNA,Unemployment total (% of total labor force),UNEMPLOY,13.1206287189182,11.7108256576878
+Middle East & North Africa (excluding high income),MNA,Consumer price index (2010 = 100),CPI,..,..
+Middle East & North Africa (excluding high income),MNA,Death rate (per 1000 people),DEATH_RATE,5.75844433476385,5.12610322043675
+Middle East & North Africa (excluding high income),MNA,GDP per capita (constant 2015 US$),GDP.PCAP,3142.80159270169,3990.20498461904
+Middle East & North Africa (excluding high income),MNA,Life expectancy at birth (years),LIFE_EXPECT,68.6414974738103,72.9843734174748
+Middle East & North Africa (excluding high income),MNA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,23.0731186859683,13.7484343934158
+Middle East & North Africa (IDA & IBRD countries),TMN,Unemployment total (% of total labor force),UNEMPLOY,13.1394777649594,11.5620470471239
+Middle East & North Africa (IDA & IBRD countries),TMN,Consumer price index (2010 = 100),CPI,..,..
+Middle East & North Africa (IDA & IBRD countries),TMN,Death rate (per 1000 people),DEATH_RATE,5.77153212291355,5.14709311041241
+Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (constant 2015 US$),GDP.PCAP,3150.16014801645,3996.84630551242
+Middle East & North Africa (IDA & IBRD countries),TMN,Life expectancy at birth (years),LIFE_EXPECT,68.6233338932417,72.9633890576299
+Middle East & North Africa (IDA & IBRD countries),TMN,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,23.1773379357576,13.8046381700506
+Middle income,MIC,Unemployment total (% of total labor force),UNEMPLOY,5.98492609725338,5.91103140244045
+Middle income,MIC,Consumer price index (2010 = 100),CPI,..,..
+Middle income,MIC,Death rate (per 1000 people),DEATH_RATE,8.08922138371018,7.14990305218747
+Middle income,MIC,GDP per capita (constant 2015 US$),GDP.PCAP,2353.85634836282,5249.14610531245
+Middle income,MIC,Life expectancy at birth (years),LIFE_EXPECT,66.5532348203179,72.1548659195372
+Middle income,MIC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,32.3774203190804,18.1211697367965
+North America,NAC,Unemployment total (% of total labor force),UNEMPLOY,4.27506877154557,4.11149416638579
+North America,NAC,Consumer price index (2010 = 100),CPI,..,..
+North America,NAC,Death rate (per 1000 people),DEATH_RATE,8.36260924204353,8.57833768686756
+North America,NAC,GDP per capita (constant 2015 US$),GDP.PCAP,47696.6266512551,58119.6969021399
+North America,NAC,Life expectancy at birth (years),LIFE_EXPECT,76.885154425386,78.9657812984215
+North America,NAC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,4.6,3.7
+Not classified,INX,Unemployment total (% of total labor force),UNEMPLOY,..,..
+Not classified,INX,Consumer price index (2010 = 100),CPI,..,..
+Not classified,INX,Death rate (per 1000 people),DEATH_RATE,..,..
+Not classified,INX,GDP per capita (constant 2015 US$),GDP.PCAP,..,..
+Not classified,INX,Life expectancy at birth (years),LIFE_EXPECT,..,..
+Not classified,INX,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,..,..
+OECD members,OED,Unemployment total (% of total labor force),UNEMPLOY,6.77178325877993,5.46423845188275
+OECD members,OED,Consumer price index (2010 = 100),CPI,..,..
+OECD members,OED,Death rate (per 1000 people),DEATH_RATE,8.11087790265875,8.63393702563994
+OECD members,OED,GDP per capita (constant 2015 US$),GDP.PCAP,30587.5095494589,37345.4285438274
+OECD members,OED,Life expectancy at birth (years),LIFE_EXPECT,76.9164285815438,80.0090370322992
+OECD members,OED,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,7.05323190103065,4.07530044029633
+Other small states,OSS,Unemployment total (% of total labor force),UNEMPLOY,11.3990711794105,9.16406580493995
+Other small states,OSS,Consumer price index (2010 = 100),CPI,..,..
+Other small states,OSS,Death rate (per 1000 people),DEATH_RATE,10.8906572445998,7.31841671233868
+Other small states,OSS,GDP per capita (constant 2015 US$),GDP.PCAP,7397.02853822233,12544.8081228782
+Other small states,OSS,Life expectancy at birth (years),LIFE_EXPECT,60.4329368443966,68.4962925145189
+Other small states,OSS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,29.0992970099624,22.4769191958123
+Pacific island small states,PSS,Unemployment total (% of total labor force),UNEMPLOY,3.67356260543218,3.00558372823741
+Pacific island small states,PSS,Consumer price index (2010 = 100),CPI,..,..
+Pacific island small states,PSS,Death rate (per 1000 people),DEATH_RATE,6.12414068327314,6.41777770368086
+Pacific island small states,PSS,GDP per capita (constant 2015 US$),GDP.PCAP,3147.19089109588,3997.70979802055
+Pacific island small states,PSS,Life expectancy at birth (years),LIFE_EXPECT,67.3039487281314,69.2137482861639
+Pacific island small states,PSS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,12.5738379502314,10.7255898086021
+Post-demographic dividend,PST,Unemployment total (% of total labor force),UNEMPLOY,6.53577798875327,5.29025585244227
+Post-demographic dividend,PST,Consumer price index (2010 = 100),CPI,..,..
+Post-demographic dividend,PST,Death rate (per 1000 people),DEATH_RATE,9.08537989529654,9.56742252730222
+Post-demographic dividend,PST,GDP per capita (constant 2015 US$),GDP.PCAP,34242.497088755,42776.4272189512
+Post-demographic dividend,PST,Life expectancy at birth (years),LIFE_EXPECT,77.3493836287602,80.6711275383459
+Post-demographic dividend,PST,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,3.9194822011386,2.81116500714141
+Pre-demographic dividend,PRE,Unemployment total (% of total labor force),UNEMPLOY,4.80900648300076,5.30521150919884
+Pre-demographic dividend,PRE,Consumer price index (2010 = 100),CPI,..,..
+Pre-demographic dividend,PRE,Death rate (per 1000 people),DEATH_RATE,14.4999958639874,8.95816941578612
+Pre-demographic dividend,PRE,GDP per capita (constant 2015 US$),GDP.PCAP,1124.91992752997,1526.8373527093
+Pre-demographic dividend,PRE,Life expectancy at birth (years),LIFE_EXPECT,51.4739360006522,60.3548387754098
+Pre-demographic dividend,PRE,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,41.1498769170671,29.2977692810723
+Small states,SST,Unemployment total (% of total labor force),UNEMPLOY,10.5253703803029,8.4590818806682
+Small states,SST,Consumer price index (2010 = 100),CPI,..,..
+Small states,SST,Death rate (per 1000 people),DEATH_RATE,9.73392428897323,7.26943481044551
+Small states,SST,GDP per capita (constant 2015 US$),GDP.PCAP,7259.3329592828,11595.4865574367
+Small states,SST,Life expectancy at birth (years),LIFE_EXPECT,62.9101269006607,69.2689349559205
+Small states,SST,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,25.9396319035494,20.3904819712751
+South Asia,SAS,Unemployment total (% of total labor force),UNEMPLOY,6.74920996020917,6.95070015860712
+South Asia,SAS,Consumer price index (2010 = 100),CPI,..,..
+South Asia,SAS,Death rate (per 1000 people),DEATH_RATE,8.57011597489442,6.55951308433329
+South Asia,SAS,GDP per capita (constant 2015 US$),GDP.PCAP,775.640775085802,1792.56125658128
+South Asia,SAS,Life expectancy at birth (years),LIFE_EXPECT,62.8929661464142,70.2534786113924
+South Asia,SAS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,46.3,26.2
+South Asia (IDA & IBRD),TSA,Unemployment total (% of total labor force),UNEMPLOY,6.74920996020917,6.95070015860711
+South Asia (IDA & IBRD),TSA,Consumer price index (2010 = 100),CPI,..,..
+South Asia (IDA & IBRD),TSA,Death rate (per 1000 people),DEATH_RATE,8.57011597489442,6.55951308433329
+South Asia (IDA & IBRD),TSA,GDP per capita (constant 2015 US$),GDP.PCAP,775.640775085802,1792.56125658128
+South Asia (IDA & IBRD),TSA,Life expectancy at birth (years),LIFE_EXPECT,62.8929661464142,70.2534786113924
+South Asia (IDA & IBRD),TSA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,46.332374032518,26.1617187951855
+Sub-Saharan Africa,SSF,Unemployment total (% of total labor force),UNEMPLOY,6.07034669625803,5.91520084222065
+Sub-Saharan Africa,SSF,Consumer price index (2010 = 100),CPI,..,..
+Sub-Saharan Africa,SSF,Death rate (per 1000 people),DEATH_RATE,14.4932196279763,8.85385913301965
+Sub-Saharan Africa,SSF,GDP per capita (constant 2015 US$),GDP.PCAP,1238.0582135158,1653.34800422771
+Sub-Saharan Africa,SSF,Life expectancy at birth (years),LIFE_EXPECT,51.2645448028029,60.8630275388921
+Sub-Saharan Africa,SSF,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,40.5,28.5
+Sub-Saharan Africa (excluding high income),SSA,Unemployment total (% of total labor force),UNEMPLOY,6.07034669625803,5.91520084222065
+Sub-Saharan Africa (excluding high income),SSA,Consumer price index (2010 = 100),CPI,..,..
+Sub-Saharan Africa (excluding high income),SSA,Death rate (per 1000 people),DEATH_RATE,14.4941496375743,8.8538993381167
+Sub-Saharan Africa (excluding high income),SSA,GDP per capita (constant 2015 US$),GDP.PCAP,1236.76408568563,1652.06727488673
+Sub-Saharan Africa (excluding high income),SSA,Life expectancy at birth (years),LIFE_EXPECT,51.2619441016462,60.8619664295261
+Sub-Saharan Africa (excluding high income),SSA,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,40.4693849972603,28.5254549561637
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Unemployment total (% of total labor force),UNEMPLOY,6.07034669625803,5.91520084222065
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Consumer price index (2010 = 100),CPI,..,..
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Death rate (per 1000 people),DEATH_RATE,14.4932196279763,8.85385913301965
+Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (constant 2015 US$),GDP.PCAP,1238.0582135158,1653.34800422771
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Life expectancy at birth (years),LIFE_EXPECT,51.2645448028029,60.8630275388921
+Sub-Saharan Africa (IDA & IBRD countries),TSS,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,40.4677289181218,28.5245881617487
+Upper middle income,UMC,Unemployment total (% of total labor force),UNEMPLOY,5.51064123953065,5.66566968188831
+Upper middle income,UMC,Consumer price index (2010 = 100),CPI,..,..
+Upper middle income,UMC,Death rate (per 1000 people),DEATH_RATE,7.1458109724634,7.27497973644943
+Upper middle income,UMC,GDP per capita (constant 2015 US$),GDP.PCAP,3508.02106038894,8634.41214059667
+Upper middle income,UMC,Life expectancy at birth (years),LIFE_EXPECT,70.4669356438592,75.7266966436554
+Upper middle income,UMC,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,18.7,6.4
+World,WLD,Unemployment total (% of total labor force),UNEMPLOY,6.07109561039706,5.69907594483502
+World,WLD,Consumer price index (2010 = 100),CPI,..,..
+World,WLD,Death rate (per 1000 people),DEATH_RATE,8.49359520780749,7.48864280700045
+World,WLD,GDP per capita (constant 2015 US$),GDP.PCAP,7871.16777837309,10777.8704519398
+World,WLD,Life expectancy at birth (years),LIFE_EXPECT,67.7004016982228,72.7840895597106
+World,WLD,Mortality rate neonatal (per 1000 live births),BIRTH_MORT,30.7,18.4
